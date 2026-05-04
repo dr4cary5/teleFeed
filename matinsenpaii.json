@@ -12,7 +12,7 @@
       "date": "2026-05-03T16:06:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36000,
+      "views": 36100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -24,7 +24,7 @@
       "date": "2026-05-03T16:43:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36400,
+      "views": 36500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -36,7 +36,7 @@
       "date": "2026-05-04T06:09:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29100,
+      "views": 29200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -58,7 +58,7 @@
       "date": "2026-05-04T06:10:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32700,
+      "views": 32800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -70,7 +70,7 @@
       "date": "2026-05-04T08:01:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33800,
+      "views": 34000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -82,7 +82,7 @@
       "date": "2026-05-04T08:15:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 40200,
+      "views": 40400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -94,7 +94,7 @@
       "date": "2026-05-04T13:27:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29800,
+      "views": 30000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -106,7 +106,7 @@
       "date": "2026-05-04T13:40:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30100,
+      "views": 30400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -124,7 +124,7 @@
       "date": "2026-05-04T13:45:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30500,
+      "views": 30800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -148,7 +148,7 @@
       "date": "2026-05-04T15:13:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28100,
+      "views": 28500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -160,7 +160,7 @@
       "date": "2026-05-04T15:13:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28300,
+      "views": 28600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -172,7 +172,7 @@
       "date": "2026-05-04T15:39:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26400,
+      "views": 26800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -184,7 +184,7 @@
       "date": "2026-05-04T17:55:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17500,
+      "views": 18100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -195,7 +195,1032 @@
           "url": "https://cdn4.telesco.pe/file/nJsGL5ZDxLcAy9GELlVyC2lZzUkZz7CeUf-FC63WETN_8PAY_I15cYTuCpgKb3J_gF05Hs8d-GN-OVOcSJYDYY0TXhYZxy7k7sRrkrskTaCLsf9dtyGw6SfWacHR9Ac8rcC2B_iRI26PPkQPLhCLc0xvlKgxTV2zh1ccQHUlmo4pUytgIvEzvTUc3BfDLIuDRQwCvEXQ3tVqcHrNWvDw3Dgsj1eMicoGIf8rvoCCY2xpvXixnLL_qSqBYHc35XmsJWbOBJtUg_jHNkzczCLIbZ_LDPpuMiqZ8F7QUwEV9OpWGWfzysJdtc_ufIk6LJeRAi7335ELLpwfMSLyiHw9Wg.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"4956725085189702857\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F97A3.png\u0026#39;)\"\u003e\u003cb\u003e🗣️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e سوالات رایج شما راجع به متد MHR-CFW :\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003cbr/\u003e1.\u003c/b\u003eمتد بار اول پینگ داد بارهای بعد نداد\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eممکنه مشکل از پایتون یا تموم شدم ریکوئست‌هاتون باشه. باید لاگ cmd رو چک کنید \u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e2.\u003c/b\u003eراجع به نصب سرایفیکیت روی ایفون لطف کنید روش mhrcfw که بتونیم نت لپ تاپ رو روی گوشی هم داشته باشیم\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eراجع به آیفون پیام \u003ca href=\"https://t.me/MatinSenPaii/2922?comment=565510\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eاین دوستمون\u003c/a\u003e رو بخونید\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e3.\u003c/b\u003e من بدون هیچ مشکلی وصلم همه چی کار میکنه وقتی  میخوام اینستا لاگین کنم همش چک باکس نات ربات میاد هرجوری تکمیل کنم دوباره میاد\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eبخاطر آیپی کلودفلر هست، اگر از قبل لاگین نباشید تو اینستا نمیتونید کاریش کنید\u003cbr/\u003e\u003cb\u003e\u003cbr/\u003e5.\u003c/b\u003eسرعت خیلی ضعیف نسبت به mhr\u003cbr/\u003eدرحدی که صفحه گوگل هم به سختی میاره\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eدوباره دیپلوی کنید \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e7.\u003c/b\u003eبرای من پینگ نمیده و وصل نمیشه\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eحتی اگر اکانتتون مسدود شده باشه هم باید پینگ بده، یا یجایی از کد رو اشتباه زدین یا کتابخونه‌هاتون درست نصب نشده\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4956368164817470478\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eدرنهایت، سوالاتی که بهش پاسخ داده نشده توی ویدیو توضیحش هست، لطفا یکبار ویدیو رو کامل ببینید و به جزئیات در هر مرحله توجه کنید\u003cbr/\u003e\u003cbr/\u003eلینک این پست رو سیو کنید؛ اگر به سوال جدیدی پاسخ داده بشه توی همین پست گذاشته میشه",
+      "date": "2026-05-02T14:08:28Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 45100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "نسخه‌ی جدید \u003ca href=\"https://github.com/therealaleph/MasterHttpRelayVPN-RUST\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/therealaleph/MasterHttpRelayVPN-RUST\u003c/a\u003e رو حتما امتحان کنید.\u003cbr/\u003eخیلی خفن‌تر شده\u003cbr/\u003eو میتونید روی اندروید هم وصل بشید(اما با ip ایران خودتون)",
+      "date": "2026-05-03T08:13:20Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 39000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "روش راه‌اندازی همون گوگل اسکریپت و auth-key و \u003ca href=\"http://code.gs/\" target=\"_blank\" rel=\"noopener\"\u003ecode.gs\u003c/a\u003e و... هست اصلا چیز خاص یا سختی نداره",
+      "date": "2026-05-03T08:14:37Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 37300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "حتی اگر جیمیلتون فلگ شده هم این پروژه رو امتحان کنید، یک سری دوستان میگفتن با این پروژه تونستن با جیمیل فلگ شده وصل بشن. برای خودم نشد",
+      "date": "2026-05-03T08:23:30Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 35800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "ایمان آقاپور گذاشته آموزشش رو:\u003cbr/\u003e\u003ca href=\"https://t.me/iaghapour/2576\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/iaghapour/2576\u003c/a\u003e",
+      "date": "2026-05-03T08:24:32Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 35400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "با Rust پیاده‌سازی شده\u003cbr/\u003eنزدیک به 800 خط کده فقط رله‌ی گوگلش\u003cbr/\u003eو نسخه‌ی standalone اندروید و همه‌ی سیستم‌عامل‌ها رو داره",
+      "date": "2026-05-03T08:25:52Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 36500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "پول به \u0026#34;شکن\u0026#34; و امثالهم هم ندید. یادآوری کنم که چند هفته پیش، به مدت دو سه روز chatgpt روش باز شد و ملت کلی اشتراک خریدن و روش کانفیگ ساختن و باز مسدود شد. پول مردم هم رفت سطل آشغال",
+      "date": "2026-05-03T08:27:50Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 36000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "منظور من این بودش که اصلا پایدار نیست. و تضمینی وجود نداره که یه ساعت بعد وصل باشه یا قطع. \u003cbr/\u003eنه اینکه شما نمیدونین یا بی‌سوادین خدای ناکرده.",
+      "date": "2026-05-03T08:31:42Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 37000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "از ساعتی پیش دیتاسنتر های حوزه هاستینگ مخصوصا ایپی های وایت  دچار قطعی شده اند ، معلوم نیست دقیقا چه خبره\u003cbr/\u003e\u003cbr/\u003eاپدیت : \u003cbr/\u003eسرویس cdn های ایرانی هم قطع شدند",
+      "date": "2026-05-03T10:09:49Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 33600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e نسخه تست همگانی کلاینت VPN وایت‌دی‌ان‌اس منتشر شد\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5359643642334031903\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BD.png\u0026#39;)\"\u003e\u003cb\u003e🔽\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eلینک دانلود سرور داخلی \u003cbr/\u003e\u003ca href=\"https://uplod.ir/i7zea22zumur/WhiteDNS.zip.htm\" target=\"_blank\" rel=\"noopener\"\u003ehttps://uplod.ir/i7zea22zumur/WhiteDNS.zip.htm\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eدر این نسخه از WhiteDNS، هسته ارتباطی روی StormDNS ساخته شده و ما تا جای ممکن آن را برای شبکه‌های محدود، ناپایدار و پر اختلال بهینه کرده‌ایم.\u003cbr/\u003e\u003cbr/\u003eبرای اتصال، نیازی به وارد کردن سرور، کلید یا تنظیمات پیچیده ندارید. فقط کافی است Resolverهای خودتان را وارد کنید یا از لیست آماده داخل برنامه استفاده کنید. اپلیکیشن Resolverها را تست می‌کند، مسیرهای سالم را پیدا می‌کند و سپس به صورت خودکار اتصال را برقرار می‌کند.\u003cbr/\u003e\u003cbr/\u003eقابلیت‌های فعلی:\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e اتصال Full System VPN برای کل گوشی\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e حالت Proxy Only برای استفاده دستی\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e استفاده از چندین سرور داخلی WhiteDNS\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e تست خودکار Resolverها قبل از اتصال\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e امکان استفاده از لیست آماده Resolverها\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e تنظیمات پیشرفته MTU برای شبکه‌های سخت‌تر\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e نمایش سرعت دانلود، آپلود و مصرف کل دیتا\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e لاگ اتصال برای بررسی خطاها و وضعیت کانکشن\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e بدون نیاز به وارد کردن کلید یا دامنه توسط کاربر\u003cbr/\u003e\u003cbr/\u003eاگر روی اینترنت شما اتصال سخت برقرار می‌شود، می‌توانید مقادیر MTU را تغییر دهید تا مسیرهای بیشتری شناسایی شوند و اتصال پایدارتر شود.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e این اپلیکیشن هنوز نسخه تست اولیه است.\u003cbr/\u003eممکن است روی بعضی دستگاه‌ها یا بعضی اپراتورها نیاز به تنظیمات بیشتر داشته باشد.\u003cbr/\u003e\u003cbr/\u003eلطفاً تست کنید و نتیجه، خطاها و پیشنهادهای خودتان را برای ما بفرستید تا نسخه‌های بعدی سریع‌تر و پایدارتر شوند.\u003cbr/\u003e\u003cbr/\u003ePowered by WhiteDNS\u003cbr/\u003e\u003ca href=\"https://t.me/whitedns\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/whitedns\u003c/a\u003e",
+      "date": "2026-05-03T10:35:19Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 32200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/K0tb1TqFsGUg9vWY0FfvbYVav5SWvG6lognzzZOI62NCb5sKLXknsiwiSGVqlVfayQidRD13Plysx8XU3HRkAjhY_1cD3T-Wd-79ksIk773nrM6E3plSIFG1Bz0V2JhjFR6uht6Wc187gS9XbyINQUWfuzOybIQ60mKP54L6NW5Ht9187UKuVeuDwzJTGQyXkOsvPCx64eqhxGQOcR7eOg5jHMgzon5e5bHfn4PeVl97rRE6l9VdWie3NSz_KV9Ahi_WE3Zw5lrvNrwfNojrDvICqLdXDwoixPIi3gZLvyAsZjRloIFPVsbqzsAyQzMo4VRWO1_DKRBzYTf0N_VLBA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e نسخه تست همگانی کلاینت VPN وایت‌دی‌ان‌اس منتشر شد  \u003ctg-emoji emoji-id=\"5359643642334031903\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BD.png\u0026#39;)\"\u003e\u003cb\u003e🔽\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eلینک دانلود سرور داخلی  https://uplod.ir/i7zea22zumur/WhiteDNS.zip.htm   در این نسخه از WhiteDNS، هسته ارتباطی روی StormDNS ساخته شده و ما تا جای ممکن آن را برای شبکه‌های محدود، ناپایدار و پر اختلال بهینه…",
+      "date": "2026-05-03T10:35:19Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 31800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "پدرام شاهکار منتشر کرده. تست کنید\u003cbr/\u003eمنطق اینه:\u003cbr/\u003eسرورها به صورت رمزنگاری شده نگهداری میشن، شما دیگه نیازی به سرور ستاپ کردن ندارید.\u003cbr/\u003e\u003cbr/\u003e فقط dns ریزالور تمیز که میتونید با اسکنر پیدا کنید(قبلا توی کانال گذاشتم اما با اسلیپ نت هم میتونید)\u003cbr/\u003e\u003cbr/\u003eو Dns رو میزنید، کانکت میشید و استفاده می‌کنید به راحتی",
+      "date": "2026-05-03T10:37:08Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 37400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "اپ کلوز سورس هستش طبیعتا ولی من امنیتش رو تضمین میکنم.",
+      "date": "2026-05-03T10:37:45Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 37400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "پدرام گفتش که یه نسخه‌ِی دیگه هم میده که بتونید سرور خودتون رو واردش کنید",
+      "date": "2026-05-03T11:06:06Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 36300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "دیگه ببخشیدا که دو روز دیگه دوباره جنگه مجبوریم برگردیم روی DNS. یه جوری صحبت میکنید انگار ما اینترنتو قطع کردیم یا ما خیلی از DNS خوشمون میاد. فکر کنم یادتون رفته سرباز اسرائیلی لب مرز یه سوت بزنه دوباره گوگل و همه چی قطع میشه باید برگردیم به غارمون و همین DNS تنها راه نجات ماست توی اون شرایط",
+      "date": "2026-05-03T11:20:05Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 37300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/RCcOOWsUTm0ZpAwnh3OGujXb0mwDSn1XW2sAGSr_K_lFPuY3sdJSsdq9kc7A_2AKwWO7Rx50UxJ-lChLRPELSLYwwNmkYXkDPl10fWqG8JeAH8fwMb04xVv3R95edNzXxSUzTe1Y7foNF3441tgPfE4VtcWVm8jfA7PT4cNR0CHijcruLCBWFy3US87aLBcOpQQsg5WpaV-OJ-BrPSUJvSHrWSHFpI9anHicVJSek4wdPhsn4Q7aAgSXFiKqykexohKj1b5Pu0WI50qpfiXMQclyEVjgLYTNbYiuv830mbc9CrLqqZ6zMnWZUltKsph6C7nZ39JJ4Nao_B6w8R6fjQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "نمیدونم چقدر به دردتون می‌خوره توی این شرایط اما من می‌تونم آموزش دور زدن تحریم‌های Google Antigravity و کلا ai agent ها برای برنامه‌نویسی(با کانفیگ‌های غیررایگان طبیعتا. چون ایرانی تشخیص میده ما رو) بذارم واستون. اگر آموزشی هست که به دردتون میخوره و نیاز دارید بهش هم می‌تونید باز بگید این زیر، اگر دیدم مناسبه یا تخصصش رو دارم ضبط می‌کنم",
+      "date": "2026-05-03T12:44:38Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 36300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "میتونید با سایفون ترکیبش کنید\u003cbr/\u003eاحتمالا باید یه ویدئو کامل برای share کردن نت گوشی با vpn برای لپ تاپ هم بذارم",
+      "date": "2026-05-03T12:47:36Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 36000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "توی این سایتِ خودِ گوگل، می‌تونید از مدل هوش مصنوعی نانوبنانا 2 و Pro برای تولید تصویر، به رایگان استفاده کنید. تبلیغات و credit و ... هم نداره امکاناتش هم حتی از اکانت Pro جمنای برای تولید عکس بیشتره:\u003cbr/\u003e\u003ca href=\"https://labs.google/fx/tools/flow\" target=\"_blank\" rel=\"noopener\"\u003ehttps://labs.google/fx/tools/flow\u003c/a\u003e",
+      "date": "2026-05-03T15:01:04Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 36600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/BxYroFbCKUpJR3HgxtGWJucVAFrUQeEGJvdRrNmJMpQ0FMo_ao7YREPmGlkiCInz5TGZM6gSSmwXw0pW3fiyA7B3c8AtrgI8SPR8Qa48LVkb93-pqRjFNM8WgYWZD1eS5IBRtW7Ht2Y9xjs_fsWvACagtVNw1eFp1G8zoyTIZ1idt84re6zr4woi4ggVdKGwVfUjemKJ5IJvUsojQ9Co0aetVQGXZEeN7_9Vm9OMbrYtP4VmJ2ewS1V1doS5Y2BLjY30OOoYPGNbGIsVwXV9S7hWgKIqcEIgYFYFhPQ9pre-Y_-P24-oG1pmIVU78h23Nrsr7GbxgCgHPhw4bV3UKg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "و یه خبر خوب بهتون بدم. Nano Banana 2 توی Flow به عنوان مدل پیش‌فرض تصویرسازی استفاده می‌شه و صفر اعتبار (zero credits) مصرف می‌کنه. یعنی برای تولید عکس معمولی با این مدل، از اعتبارهای روزانه‌ی Flow استفاده نمی‌شه.\u003cbr/\u003eو از کاربران رایگان، خیلی‌ها توی ردیت گزارش دادن که می‌تونن چند صد تا حتی ۱۰۰۰+ عکس توی روز بسازن. بعضی‌ها با لاگ‌اوت و ورود با اکانت گوگل دیگه، عملاً نامحدود استفاده می‌کنن.\u003cbr/\u003eفکر کنم رقابت با Gpt-2 بالا گرفته",
+      "date": "2026-05-03T15:08:00Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 36400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D8C.png\u0026#39;)\"\u003e\u003cb\u003e❌\u003c/b\u003e\u003c/i\u003e پولت رو بده نیازمند، سودش بیشتره تا بخوای شکن بخری! من شکن حرفه‌ای خریدم، اگر اون پول رو میدادم غذا برای گربه‌ها میخریدم، بهشت رو واسه خودم خریده بودم! نمیدونم چرا اینقدر شکن رو بولد میکنن! البته به قول متین: «شکن چند وقت پیش هم اومد خودش رو بولد کرد و مردم حمله کردن اکانت خریدن تا روی chat gpt کانفیگ بسازن، بعد که فروخت، چت جی‌پی‌تی رو بست!» اکثر این‌هایی که تبلیغ شکن میکنن بازاریابِ همین دزدان و قوادان هستن! که مردم برن بخرن بعد قطع کنن! تهشم بگن: «اختلال از سمت زیرساخت هست و ما تابع قوانین کشور هستیم» یعنی پولت رو نمیدیم و بهت هم میخندیم!",
+      "date": "2026-05-03T15:53:56Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 36100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "این MHR-CFW هم چیز جالبی بودش",
+      "date": "2026-04-30T21:24:09Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 42400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/CReTcf_d7_Ce65H430xE7OhySJhvGvdn-ZtEO0z0ZogDQzmjgLn-KxzFlxhJYIc6t_zZF2QXyZG-xNdIn0E8chTeIbGR2niD1W1jy1mq48Jp3cc5P94J6EAqir6XPwX3WvFTUxyE31YmiQNJikM2MvkKkgwHzIcm2cdEqSs1-x0IoekE2bHzJCLWNzIE3aDrgV32bXibQYUr4YXB3B3bsVk5xjXJL8PgojEisf-7cFrF47Kx4Fwg0KYYAbmOR-ftRH8TyzmmJJcGLI_SZmj3ObV2RTXI4uhlvodB-jMr7z5_Qbk71UXxlfRuQT3-YkNMc84aYd4hsAcOXWLDMqoIqA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "نه من همین الان باهاش وصلم و یوتوب و اینستا و تلگرام وب و همه چیز اوکیه",
+      "date": "2026-04-30T21:25:04Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 43500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "توی توییتر بحث شده بود سرش تهش دوستان به این نتیجه رسیده بودن که باعث میشه 20 کا لیمیت خود google کمتر مصرف بشه اما 100 کا ریکوئست کلودفلر، عادی مصرف میشه",
+      "date": "2026-04-30T21:26:06Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 44100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "آموزشش رو ضبط میکنم واستون\u003cbr/\u003eنکته‌ی جالب اینه من دقیقا توی دوتا از اکانتای گوگلم ارور 502 میگرفتم و اینو برطرفش کردم. انگار اکانت‌ها فلگ شده بودن سر اسکریپت 128 خطی MHR",
+      "date": "2026-04-30T21:27:35Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 42900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "تنها هوش مصنوعی‌ای که باز کرد \u003ca href=\"http://grok.com/\" target=\"_blank\" rel=\"noopener\"\u003egrok.com\u003c/a\u003e بودش متاسفانه gpt و جمنای بلاک میکنن",
+      "date": "2026-04-30T21:32:08Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 44200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/Gh2hm5psI8n-GQugC_8GEGY-MHTJZx0ZBtbuW4TootKlzj8j1D66qOZz2HbJkkWkxnMbkGDluLcIDRnfoHAzLWHWvhrfO_TGp4_x9A1OvyYakD7WpRLlfgQLZe9bk13Jn9Xz2qX4_VqDZu4wxBTv5k5WzToqlp8iaVvDDDX6uBS92XBWVi-UZlAFjGEYc8GZVndfH3W5F28JLwRT42FyV0FXS02eAFrVfitAeYsdNeUxu7rOfGZg_Pp7Qav1v8468CDPkQ1q1bXolLvQzEpmQgSmVhisV42xSZWJP-06MW-19N4TAvDi4W_tFVdes5dxGtfQUJT8zxVoO-B9Ew1KiQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "به یاد تامکت، امشبو نخوابید\u003cbr/\u003eتخمه‌ها رو بذارید کنار\u003cbr/\u003e\u003cbr/\u003eاما ممکنه دو ساعتی طول بکشه ویدئو رو حاضر کنم\u003cbr/\u003eکما اینکه بقیه‌ی دوستان هم الان دیدم آموزشش رو گذاشته بودن تلگرام، منتها یک چیزهایی ناقص بود و همه‌ی مطالب گفته نشده بود. برای همینه که من هم مجدد ویدئو ضبط میکنم",
+      "date": "2026-04-30T21:34:17Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 45000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "خب، Claude و Qwen و Github copilot هم باز میکنه و اوکیه",
+      "date": "2026-04-30T21:40:36Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 45300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/voQaXs2AdCL-SO5pfebIVu7PRHb8V5SwexhGezk69YSkyGdA7C_tIdgZB6FPmT0702qP60qOPQMJOuxVcDDx3QnNHPxOopfw2t0wYGjqWZm6i2QVsHIrP2W-zOr7Mpa65_0X02P-RS80ybTignoxaEQDZfqxtrLFyiudTWBa8rUkyhDGL33HozBefXBo7jXucOEEyrzZjfjE940RmlxicIZi-UncgqpK-ZQeGildh-Glf9c41fvZbMYvcytBFA2TZO-L7N1gQ-l2vYPLbrjMZqQBjFBiPmBtgrqEma414B-pX1WPMrrGz4CM8S3FamFcJY8wC0dAJPWO6eu77gKpnQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "یه دور کامل از صفر آموزش نصب پایتون هم می‌ذارم واستون",
+      "date": "2026-04-30T21:40:41Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 46100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "خب، روش لود کردن جمنای رو هم واستون پیدا کردم:) که به ارور Unusual traffic گوگل نخورین",
+      "date": "2026-04-30T21:51:18Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 48000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/oLeDpzOsqRgbFpQhHdL4mAPhKe9_0dFkK4sVRa76gyehM3EEGwkGdMbLH6zUeiM9oqg0AO-ntrLlCtjUIhs1rF2A7DM3UfeX39D715PxDj67phnn0HZH-ZdmicaP9RsM0hh0cy70UFgtHzks2GyiJCiauAVyKw7arzdfoGTf-itFpyvEygL2B8fC7KDvCjCIAAki-5CnP3hqHW1iF9z6gcB6udN4SvYzZ6Po6U4_rafEBZicbfyH7vy0iJRE4xFi_Hc7i_KVzP01kpvZxylEyiQwtneVPYl_xAEpRbvUrT2Tn0it3IDVx20VzmBLC7nDvQqcY1M611tywfm5Ddcg8A.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5447246917744478110\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E298A0.png\u0026#39;)\"\u003e\u003cb\u003e☠️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e آموزش جامع ساخت فیلترشکن شخصی رایگان با گوگل و کلودفلر، متد MHR-CFW\u003cbr/\u003e\u003cbr/\u003eلینک پروژه‌ی اصلی: \u003ca href=\"https://github.com/denuitt1/mhr-cfw\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/denuitt1/mhr-cfw\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eتوی این ویدئو قدم به قدم از پایه‌ای ترین نقطه شروع میکنیم و متد mhr-cfw رو پیاده‌سازیش میکنیم\u003cbr/\u003e\u003cbr/\u003e \u003ctg-emoji emoji-id=\"5447644863644320013\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e آموزش کامل نصب پایتون و پیش‌نیاز‌ها به علاوه اکانت گوگل اسکریپت و کلودفلر\u003cbr/\u003e \u003ctg-emoji emoji-id=\"5447644863644320013\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  آموزش استفاده از انواع هوش مصنوعی‌ها از جمله Gemini\u003cbr/\u003e \u003ctg-emoji emoji-id=\"5447644863644320013\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e توضیح ارور 502 و مشکل لود نشدن ویدئوی یوتوب\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5372917041193828849\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eلینک‌های دانلود با نت داخلی:\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://nc.thearthur.ir/s/YaCp4zAzepHJKi2\" target=\"_blank\" rel=\"noopener\"\u003ehttps://nc.thearthur.ir/s/YaCp4zAzepHJKi2\u003c/a\u003e\u003cbr/\u003eدانلود ویدئو با کیفیت اصلی(400 مگابایت)\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://nc.thearthur.ir/s/oPg4gAqtFd8zBFd\" target=\"_blank\" rel=\"noopener\"\u003ehttps://nc.thearthur.ir/s/oPg4gAqtFd8zBFd\u003c/a\u003e\u003cbr/\u003eفایل پروژه\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://nc.thearthur.ir/s/xJdfE6BeYEQA4s5\" target=\"_blank\" rel=\"noopener\"\u003ehttps://nc.thearthur.ir/s/xJdfE6BeYEQA4s5\u003c/a\u003e\u003cbr/\u003eفایل نرم‌افزار V2rayN دسکتاپ، ویندوز 64 بیت\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5447644880824181073\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e پیش‌نیازها و نکات مهم: \u003cbr/\u003e\u003ctg-emoji emoji-id=\"5794182096603847292\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/31E283A3.png\u0026#39;)\"\u003e\u003cb\u003e1️⃣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e این ویدئو هیچ پیش نیازی نداره\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069150690295677651\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/MatinSenPaii/2911\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eتماشا در تلگرام \u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5071261477743100913\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B9.png\u0026#39;)\"\u003e\u003cb\u003e📹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://youtu.be/L3lJZrAqqUQ\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eتماشا در یوتوب\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5069054607582298852\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B0.png\u0026#39;)\"\u003e\u003cb\u003e💰\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://nowpayments.io/donation/matinsenpai\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eدونیت\u003c/a\u003e",
+      "date": "2026-05-01T00:42:14Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 84100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/ZSrQE0vRk2vvS7aYasBYDeg3C-7QMi2AmHBQQ9jyrDuenw-MCKpaMHlr33C6lq2OcE74Gr11G4dBrA2OzW_tibMAE33TdI_2gX1WsMprEhzn6uHX4ET9S7XUt3XtMOeGNGK7wyHAE5ESZNVYmgEqhpLctEKcCHKigyeukfOyzhitHVXCyxRqnMRb9y6Gx4mEL6BqOeJ-cVbZz5y36jASIRM2zdf8iHCWAmJToS6vtXfIk8Q9Ujqe23Cg7eF17jt4IUPeKaG7D6f9NflPT_IEJw1ZdOq-ekDKXaUcKa63FF-KIxSk_COxGykT5j-lffxtgYmrNdKancpGaMqbFGGphQ",
+          "width": 1920
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "لینک پروژه‌ی اصلی: \u003ca href=\"http://github.com/denuitt1/mhr-cfw\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/denuitt1/mhr-cfw\u003c/a\u003e\u003cbr/\u003eلینک سایت گوگل اسکریپت: \u003ca href=\"http://script.google.com/\" target=\"_blank\" rel=\"noopener\"\u003escript.google.com\u003c/a\u003e\u003cbr/\u003eلینک سایت کلودفلر: \u003ca href=\"http://dash.cloudflare.com/\" target=\"_blank\" rel=\"noopener\"\u003edash.cloudflare.com\u003c/a\u003e\u003cbr/\u003eلینک سایت پایتون: \u003ca href=\"http://python.org/\" target=\"_blank\" rel=\"noopener\"\u003epython.org\u003c/a\u003e",
+      "date": "2026-05-01T00:42:34Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 63900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "اگر لینک داخلی باز نمیکنه:",
+      "date": "2026-05-01T01:01:22Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 52800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/X7fyZ7-zra8J6mwtWknZNJCEH4MT-92WW5arnVM3KtD1xDONC4TQT8xVFvhX9KkWZD4KYUBAbMGkcqxjRWU7SAv7YReD6bvYVcz1LqxaTV6kTtKYyoPrAIH0vFtgpWXvcKGwJJwBkfSa9u60yqBq1Zni9HAUZ01yPmHYKUNpOTDehJpPdfjqeYChpiJ-8UDlGEYRLKXhY_OtEl9HG_qY8IYJy3hdYpGYTr9qM_59sDGn-EqpHFmDCgjhz3mLzHEUbWiHhdHIXhgPIA49A2eI8ds0c3lRFqW3ugrrJpuKvIP2BioUBH9TpTJqjuqifJVBqhBWXHOVpSMqBrbtfZUZuw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "شما با MHR خالی که میرید، آیپیتون ایران هست که کلی دردسر توی سایت‌های مختلف درست میکنه(خیلی از هوش مصنوعی‌ها و ... تحریم هستیم واسمون باز نمیشه)\u003cbr/\u003eاما با MHR-CFW آیپی شما به صورت رندوم یکی از آیپی‌های کلودفلره مثلا هلند، آلمان و...",
+      "date": "2026-05-01T01:02:44Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 52500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "طولانی‌ترین ویدئوی کانال شد واقعا اعصاب و انرژی و حوصله برد ازم. تمام تلاشم رو کردم جوری توضیح بدم که اگر یکی بود حتی cmd رو یه بار هم باز نکرده بود بتونه انجام بده. با تشکر از تمام دوستانی که برای آپلود ویدئو کانفیگ و برای نت داخلی هاست در اختیارم گذاشتن\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-05-01T01:06:33Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 52100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "11 عدد IP وایت، پشت Cloudfront آمازون",
+      "date": "2026-05-01T13:52:19Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 52100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/b8uBj8xh5RGVI_VLzcoHDo3JM3S0vj1M1Z1ahzHLtCbmlZZfQES4MAxKek-jO-XrKRZBBvYqliLi6jeFkPzWXnyiidwoShWJB-0thqHLwSiOW0wDyAQBY53ugkIGaXSnYaIczdwtYu2WHwQGKEcxiBZFErsyCGKKTrj9gO9xJtcTdGL2z7KqkLFcFw-H7MDnqyIgPgFwsSLbCT5vTipt757Ltfl_b7hKwI9Vlr6kXInG7g6KQDIc4lyATXXUk31tQgUjx73HsROeUTgfVkBZZutAE5XDYxTJK3sIaMLvMAQsSP6HWJLPRGCORhOSAdomQTFwwon-LizMr9KFJQrlKQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "چند صد گیگ دانلود شده بود از این سرور دوستم که فایل‌ها روش بود به خاطر همین ویدئو، ترافیکش تموم شده\u003cbr/\u003eمجددا تلاش میکنم امشب چند جای دیگه آپلود کنم واستون",
+      "date": "2026-05-01T18:09:12Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 49100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "اکانت گوگل به احتمال زیاد فلگ شده اگر این اتفاق افتاده",
+      "date": "2026-05-01T18:53:35Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 48700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "\u003ca href=\"http://t.me/Unknownanonymoussss\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eیکی از بچه‌ها\u003c/a\u003e این رو گفته بودش. چک کنید و نتیجه رو بهم بگید:\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eدوستانی که مشکل 502 دارن راه حلش اینه:\u003cbr/\u003e\u003cbr/\u003eبرید داخل فایل کانفیگ (نه config example پشت سیستم نیستم اسم دقیقش رو یادم نیست) و مقدار auth_key رو درست وارد کنین، همونی رو وارد کنین که توی کانفیگ که توی گوگل اسکریپت وارد کردین.\u003cbr/\u003e\u003cbr/\u003eظاهرا cmd موقع گرفتن دیتای اولیه مقدار auth_key رو درست نمیذاره، اینو بعدا باید به سازنده بگیم درستش کنه. کسایی که اپ terminal نصب دارن مثل متین به این مشکل نمیخورن.\u003c/blockquote\u003e",
+      "date": "2026-05-01T22:25:04Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 48100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "باید سرتیفیکیت‌ها رو روی گوشی هم نصب کنید",
+      "date": "2026-05-01T22:28:36Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 46500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "- وقتی دیپلوی کردین بهتون یک لینک میده، حتما روی آن کلیک کنید تا باز بشه، اگر ازتون پرمیژن خواست بدین. اگر بوک مارک کنید و گاها بهش سر بزنید هم بهتره.\u003cbr/\u003e\u003cbr/\u003e- در گوگل درایو sign in کنید و پرمیژن بدین.\u003cbr/\u003e\u003cbr/\u003e- یوتیوب را با مرورگری برید که به گوگل sign in کرده.\u003cbr/\u003e\u003cbr/\u003e- حتما مطمئن بشین که سرتیفیکیت نصب باشه (هرچند برای من در اندروید نصبه اما بازم کار نمیکنه)",
+      "date": "2026-05-01T22:32:19Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 46700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "مردم کشور گناهی ندارن 59 روزه اینترنت نداشتن اگر کمی چشمات رو باز کنی و توهین نکنی. اون کانال تلگرامی احمقی که نشر داده نوشته همراه اول شروع کرد به فروختن نت بین‌الملل مقصره. سرچ کن کد رو ببین چنـــد تا کانال گذاشتن!",
+      "date": "2026-04-27T16:12:19Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 46100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "اما Vercel خیلی عجیب بود. جزو سه تا از اولین سایت‌هایی بود که وایت شد، الانم خیلی در تلاشن مثل اسپوف یه جوری وایتش کنن که نتونیم روش VPN بسازیم. نمیدونم چه داستانی داره دولت سر این",
+      "date": "2026-04-27T18:32:54Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 44100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "راحتترین راه برای دور زدن فیلترینگ IDE های کدنویسی، share کردن اینترنت گوشی با وی‌پی‌ان برای سیستم هست. چه با Pdanet+ چه با EveryProxy.\u003cbr/\u003eپروکسی‌فایر یه خورده داستان داره اما اونم میشه.\u003cbr/\u003eولی بحث Anti-Gravity فرق داره. شما باید ریجن اکانتت رو تغییر بدی به آمریکا یا کشوری که تحریم نیستش.\u003cbr/\u003e\u003cbr/\u003eحالا اینجا چیکار میکنیم؟\u003cbr/\u003eببینید تغییر ریجن اکانت گوگل خیلی سخت، اذیت کننده و از روش‌های قبلی غیر ممکن شده.\u003cbr/\u003eاما با این فرم همچنان می‌تونید.\u003cbr/\u003eکافیه سایت رو باز کنید و بذارید روی کشور مورد نظرتون(ترجیحا امریکا یا کانادا یا استرالیا) و همین.\u003cbr/\u003e \u003cbr/\u003eبین 1 تا ۲۴ ساعت طول می‌کشه و ایمیل تأییدیه واستون میاد. اگر نیومد روی یه جیمیل دیگه انجامش بدید:\u003cbr/\u003e\u003ca href=\"https://policies.google.com/country-association-form\" target=\"_blank\" rel=\"noopener\"\u003ehttps://policies.google.com/country-association-form\u003c/a\u003e",
+      "date": "2026-04-27T19:18:18Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 47400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "هرچند محدودیت‌هاش خیلی شدید شده بود آخرین باری که استفاده کردم حتی با اکانت پرو جمنای و زیاد جالب نیست دیگه. مگر برای فرانت اند که با 3.1 pro خود جمنای بخواید برید سراغش",
+      "date": "2026-04-27T19:21:39Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 45600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5244559903443412409\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B0.png\u0026#39;)\"\u003e\u003cb\u003e🥰\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e20 عدد SNI سالم گوگل:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://www.workspace.google.com/\" target=\"_blank\" rel=\"noopener\"\u003ewww.workspace.google.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://www.mail.google.com/\" target=\"_blank\" rel=\"noopener\"\u003ewww.mail.google.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://www.gstatic.com/\" target=\"_blank\" rel=\"noopener\"\u003ewww.gstatic.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://www.google.com/\" target=\"_blank\" rel=\"noopener\"\u003ewww.google.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://www.gmail.com/\" target=\"_blank\" rel=\"noopener\"\u003ewww.gmail.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://workspace.google.com/\" target=\"_blank\" rel=\"noopener\"\u003eworkspace.google.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://ssl.gstatic.com/\" target=\"_blank\" rel=\"noopener\"\u003essl.gstatic.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://mail.google.com/\" target=\"_blank\" rel=\"noopener\"\u003email.google.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://gstatic.com/\" target=\"_blank\" rel=\"noopener\"\u003egstatic.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://google.com/\" target=\"_blank\" rel=\"noopener\"\u003egoogle.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://gmail.com/\" target=\"_blank\" rel=\"noopener\"\u003egmail.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://g3.gstatic.com/\" target=\"_blank\" rel=\"noopener\"\u003eg3.gstatic.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://g1.gstatic.com/\" target=\"_blank\" rel=\"noopener\"\u003eg1.gstatic.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://fonts.gstatic.com/\" target=\"_blank\" rel=\"noopener\"\u003efonts.gstatic.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://csi.gstatic.com/\" target=\"_blank\" rel=\"noopener\"\u003ecsi.gstatic.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://connectivitycheck.gstatic.com/\" target=\"_blank\" rel=\"noopener\"\u003econnectivitycheck.gstatic.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://clientservices.googleapis.com/\" target=\"_blank\" rel=\"noopener\"\u003eclientservices.googleapis.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://checkin.gstatic.com/\" target=\"_blank\" rel=\"noopener\"\u003echeckin.gstatic.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://beacons.gvt2.com/\" target=\"_blank\" rel=\"noopener\"\u003ebeacons.gvt2.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://beacons.gcp.gvt2.com/\" target=\"_blank\" rel=\"noopener\"\u003ebeacons.gcp.gvt2.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://x.com/i/status/2048852179231101031\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع توییتر\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/xsfilterrnet\" target=\"_blank\"\u003e@xsfilterrnet\u003c/a\u003e \u003ctg-emoji emoji-id=\"5053169761232356354\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-04-27T20:24:51Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 45100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "عزیزان اینا برای MHR هست متاسفانه اسپوف زنده نشده\u003ctg-emoji emoji-id=\"5969540800936153999\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F989E.png\u0026#39;)\"\u003e\u003cb\u003e😞\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003eتوضیح: توی شرایطی که SNI ای که اونجا هست واستون پینگ نده حالت عادی",
+      "date": "2026-04-27T20:28:46Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 46300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5312016608254762256\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eاگه گوگل براتون باز میشه، می‌تونید خیلی راحت با نصب این کلاینت اوپن‌سورس اندروید به گوگل درایو هم دسترسی داشته باشید.\u003cbr/\u003eنسخه‌ای که من ساختم، در واقع یه ورژن شخصی‌سازی‌شده از Round Sync هست که خودش یه کلاینت rclone برای اندرویده.\u003cbr/\u003eبرای ساختنش، اول قابلیت domain fronting رو به rclone اضافه کردم، بعد اپ رو با همون نسخه‌ی تغییر‌داده‌شده rclone بیلد گرفتم و تنظیمات domain fronting رو هم توش گذاشتم.\u003cbr/\u003eهمون‌طور که توی ویدیو می‌بینید، نصب و راه‌اندازیش خیلی ساده‌ست و همه‌ی درخواست‌ها رو مستقیم به آدرس \u003ca href=\"http://google.com/\" target=\"_blank\" rel=\"noopener\"\u003egoogle.com\u003c/a\u003e می‌فرسته که فیلتر نیست.\u003cbr/\u003eاز نظر قوانین گوگل هم مشکلی نداره، پس از این بابت خیالتون راحت باشه.\u003ctg-emoji emoji-id=\"5309958691854754293\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F928E.png\u0026#39;)\"\u003e\u003cb\u003e💎\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003eفایل apk با نت داخلی\u003cbr/\u003e\u003cbr/\u003eلینک دانلود از Github:\u003cbr/\u003e\u003ca href=\"https://github.com/aleskxyz/Round-Sync/releases/tag/v2.6.0\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/aleskxyz/Round-Sync/releases/tag/v2.6.0\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://x.com/i/status/2048911060506194075\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمنبع توییتر\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/xsfilterrnet\" target=\"_blank\"\u003e@xsfilterrnet\u003c/a\u003e \u003ctg-emoji emoji-id=\"5053169761232356354\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-04-28T16:12:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 38100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Oa3zUjzTyrfp7Q8d6_-bJ6jfakEkno4T_ZQbkMOlB-JxSWycGJHU23nbeciZLEjuwk9KtYtXfKCDZe7_Qv8HtlEG8kD9sioTJppgE8fo_M2BTSic89sipsHpY6-HDxRbfP2aVstq7DDEVwoWn9ANa-lF09CdpaFgLu0ikUTiJ7U-rZ4Io1KN1QzY8G7frfXJ3GAAi_T9j3XJNrstf0R70ndRAEuB-8YPBYCDWtxnjFXPZGRwVAXqNo9GspPYlu3M5cUfIeZN46mpfyyzVHDHZJfrto2OOsDAxratL6j4AEP_flXbccnkE5ZBFgyGjgQs0GxexRoGzwPYDPjrEPGL6A.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/edjGYi9h3rK2NuIb64ixk1U0HEwzORsn-v1rqYykdeJ4NHpFb_VQHNfAEAFZqHns5z3fUtr1OLpsOuJb4vlIccwhICe6bCuwurN3eGhR8w1AO5lKZ_OvDmC0_FplijEjWYuvelO634PtrZ27N5UnqCd4yLOgNBDRvQ42htDMAoLcbgRZREK28XqhuYeXJ_aexEWBCwo5d0Dty2YeYasstVSj39Nfl_hdYZzkuOLBS0NQ8587uwAMaV1v81HxVd4WIekPL_u41pCB7dfU11YIgVOLdD_Y03nVJRYXi4vmnqWM8-ewAraK7s8FYCEymxKVo46fGhlV-eZ7gOvvcWVwlg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003cblockquote\u003eفایل‌های متود Goose–Relay–VPN\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003e— More: \u003ca href=\"https://t.me/TheVPNMethod\" target=\"_blank\"\u003e@TheVPNMethod\u003c/a\u003e\u003c/blockquote\u003e",
+      "date": "2026-04-28T16:12:17Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 43000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "این هم ویدئوی آموزشیش:\u003cbr/\u003e\u003ca href=\"https://t.me/iaghapour/2563\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/iaghapour/2563\u003c/a\u003e",
+      "date": "2026-04-28T16:44:57Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 46300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "اگر کد Vercelتون به مشکل خورده، اسم یه سری از توابع رو تغییر بدین توی کد و یه سری خط الکی و کامنت اضافه کنید، احتمالا دیگه گیر نمیده.\u003cbr/\u003eفکر نمیکنم هنوز به پیشرفتگی کلودفلر باشه صرفا ریپو و کد عینی‌اش رو بن کرده",
+      "date": "2026-04-28T19:19:55Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 45900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "دقیقا واسه‌ی همین بود که آموزشش رو ندادم و بهتون گفتم ورسل پرو هم نخرید:))",
+      "date": "2026-04-28T19:55:40Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 44000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "اکانت ورسل من هم ساسپند شد با اینکه استفاده نکرده بودم از پروژه\u003cbr/\u003e فقط و فقط ریپو رو کلون کرده بودم اصلا یک کیلوبایت هم ترافیک رد و بدل نشده بود. گویا هرکسی این کد‌ها رو عیناً داشته توی یه ریپو، بن کرده",
+      "date": "2026-04-28T20:30:05Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 47500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/uzudqCYn5WR2tk0cnx6t3LfTGiw9--2RpB5SB_ld_DNPNNRlt4cGQi7hzSelJWVrd1GQ1aEyzcKvgj3gZu7vA4vL2usQtGrWvjIdhPBWIiFGt6D0h6mhHq3pfnq2SlBSHdKgoEk5lVrEOrULBFj_aIQ9HDUcF4bDv0ED11cjXxYN4uWqEewSeW7V4qgnZxzA5Gklof-Mm4ATl3H8bh85qxsfyI5Y3usKkoQI7Rc3dMO4O44qqjOuPV-UkNKvxnR5jod1xVJTHxWphdztK9y29JjLofy5w0bmb57PV0Peb4CnWS7iIkO0iy7kOSWE2jWWL94xPJnVzgnWp2t4abxZRA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "من همون روز اول کامنتهای داخل کد رو تغییر دادم. ۳تا اکانت دارم هیچکدوم بن نشدن.",
+      "date": "2026-04-28T20:43:28Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 47100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "دقیقا همون کاری که گفتم انجام بدید",
+      "date": "2026-04-28T20:43:36Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 47300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "من زیاد چیزی از اقتصاد و سیاست نمیدونم. اما شرایط مشابه رو میتونم تشخیص بدم. دلار دوباره داره مثل تایم قبل از 7 اسفند میره بالا",
+      "date": "2026-04-29T06:55:23Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 46500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/MRP1mjJljaNyC5NSo67zdA5y6P9SioqmHLavAD_p3Ta0dZ0DJWIAwWs1tHNugnI1xRWnUfe-8CbWm2HoNgUmPXdF9Mk6bkQzwp7dYfsCgIkoARaxnKarNZX_u4do_rFKAxpUgObxjsOcqTxFvugp4x1oou-Jyx3FDh_o_lRQpcyz9p5KkjL6sohj53CkM3VCA9Eozq3fkEjB8R5BBcHWh73MgQeKwA48e_a28k4Pvz9Oq96P0H0AEDGfJKQZ--yjvNuk2PmAtIIeMj0-HAPYt5gxa46_pNBAYkrXSoPErSZXxY6fnY8U9bB0udenDFPIschH3tNWXhJ6_FViEW1ApQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "منم همینطور فکر میکنم. یعنی ممکنه در بازه‌ی کوتاهی دلار 250-300 هم ببینیم",
+      "date": "2026-04-29T06:57:32Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 46300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e نسخه جدید و پایدار GCFR منتشر شد! (v2)\u003cbr/\u003e\u003cbr/\u003eدر این نسخه تغییرات و بهینه‌سازی‌های بسیار مهمی انجام شده تا اتصالی پایدار و بدون دردسر داشته باشید:\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e رفع قطعی خطای 502: مشکل باز نشدن سایت‌های غیر گوگلی و گیر کردن در فایروال گوگل به طور کامل برطرف شد.\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e نسخه کاملاً پرتابل (Portable): بدون نیاز به نصب! تنظیمات شما به صورت امن دقیقاً در کنار خود برنامه ذخیره می‌شود.\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e اتصال هوشمند و یک‌کلیک: رفع مشکلات گواهی امنیتی (Certificate). در مرورگرهای کروم و ادج بدون هیچ اروری و فقط با یک کلیک وصل شوید.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e بهینه‌سازی سرعت (HTTP/2): بازنویسی هسته شبکه برای هندل کردن بهتر ترافیک و افزایش سرعت لود مدیاها.\u003cbr/\u003e\u003cbr/\u003eلینک داخلی : (توسط یکی از دوستان گل کانال)\u003cbr/\u003e\u003ca href=\"https://uplod.ir/s6l5dfp2isx6/GCFR_V_2.1.zip.htm\" target=\"_blank\" rel=\"noopener\"\u003ehttps://uplod.ir/s6l5dfp2isx6/GCFR_V_2.1.zip.htm\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eارادتمند Whisper \u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://t.me/whitedns\" target=\"_blank\"\u003e@whitedns\u003c/a\u003e\u003c/blockquote\u003e",
+      "date": "2026-04-29T08:46:45Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 40700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "(پست موقت ) \u003cbr/\u003e\u003cbr/\u003eدوستان سلام \u003cbr/\u003e\u003cbr/\u003eاین داستان deploy کردن کد توی google script از دیروز یک طوری شده \u003cbr/\u003e\u003cbr/\u003eمشکل از ما نیست , گوگل یک کاری کرده \u003cbr/\u003e\u003cbr/\u003eاول یک بار دیپلوی کنید ، ارور میده ، صفحه را reload کنید و دوباره همون کد را deploy کنید \u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eتاکید میکنم  \u0026#34; همون کد \u0026#34; که توی داشبورد هست را دوباره deploy کنید و بهتون Id میده \u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eموفق باشید",
+      "date": "2026-04-29T08:46:57Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 44000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "خیلی خیلی ساده می‌خوام توضیح بدم. اون کانفیگی که شما می‌بینید وصله:\u003cbr/\u003e\u003cbr/\u003e1- یا سرور رانتی پشتشه(یعنی از بالا آزادش کردن و من و شما دسترسی نداریم به همچین چیزی)\u003cbr/\u003e\u003cbr/\u003e2- یا واسطه‌ای هست که از مورد 1 سرور دست به دست شده داره میفروشه به شما(اوتباند)\u003cbr/\u003e\u003cbr/\u003e3- یا با یه سری متدی وصل هستن که به شدت ناپایداره(مثل range آیپی خاص فلان دیتاسنتر و... که بازم شانسیه یا ارزش یاد دادن نداره چون برای همه قرار نیست کار کنه)\u003cbr/\u003e\u003cbr/\u003e4- یا اینترنت استارلینک یا نت مرزی هست که اونم باید وصل باشه به سرور ایران اما دردسرش بیشتره و باید مسک کنید که شناسایی نشه آیپی استارلینک شما. که اونم طبیعتا برای همه قابل دسترسی نیست و سرورهای ایران رو هم به شدت مسدود میکردن یه تایمی\u003cbr/\u003e\u003cbr/\u003e5- یا نت سیمکارت سفید یا اینترنت پرو رو میگیرن میندازن پشت روتر و شروع میکنن مثل همون استارلینک به فروختنش\u003cbr/\u003e\u003cbr/\u003eاگر متد فعال و پایداری بیاد، همینجا اعلام می‌کنم و یا ویدئوش رو می‌سازم. فعلا با این بساط اینترنت پرو انگار قصد ندارن برگردونن به قبل از جنگ وضعیت اینترنت رو.",
+      "date": "2026-04-26T14:14:24Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 47300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "اوتباند یعنی:\u003cbr/\u003eیه کانفیگ Vless بهت میدن، که وصله به سرور رانتی. ۲۰۰ گیگ هم حجم داره به طور مثال.\u003cbr/\u003eشما اینو توی پنل سنایی اوتباند میذاری، نت سرور ایرانت وصل میشه به نت بین‌الملل(به اندازه‌ی ۲۰۰ گیگ).\u003cbr/\u003eحالا میتونی اینو تقسیم کنی بفروشی. متد وصل شدن نیست این که بخوام یاد بدم",
+      "date": "2026-04-26T14:26:06Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 47900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "کیا موفق شدن؟",
+      "date": "2026-04-26T15:48:40Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 47300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "برای لاگین توی Vercel اگر از طریق گیتهاب یا گوگل اقدام کنید شماره نباید بخواد قاعدتا.\u003cbr/\u003eویرایش: انگار قبلا نمی‌خواست:) متاسفانه الان می‌خواد",
+      "date": "2026-04-26T18:05:07Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 47400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "میتی وی پی ان باز این آیپی تمیز رو داده رو کانفیگ‌هاش. یه تست بکنید: \u003ca href=\"http://104.20.6.134/\" target=\"_blank\" rel=\"noopener\"\u003e104.20.6.134\u003c/a\u003e\u003cbr/\u003eکلودفلر",
+      "date": "2026-04-26T18:10:52Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 49400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "\u003cblockquote expandable=\"\"\u003evless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?encryption=none\u0026amp;security=tls\u0026amp;sni=sni.111000.indevs.in\u0026amp;insecure=1\u0026amp;allowInsecure=1\u0026amp;type=ws\u0026amp;host=sni.111000.indevs.in\u0026amp;path=%2F#%40MiTiVPN%20%20%F0%9F%87%B8%F0%9F%87%A8\u003cbr/\u003evless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?encryption=none\u0026amp;security=tls\u0026amp;sni=sni.jpmj.dev\u0026amp;insecure=1\u0026amp;allowInsecure=1\u0026amp;type=ws\u0026amp;host=sni.jpmj.dev\u0026amp;path=%2F#%40MiTiVPN%20%F0%9F%87%B3%F0%9F%87%B1\u003cbr/\u003evless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?encryption=none\u0026amp;security=tls\u0026amp;sni=sni.111000.indevs.in\u0026amp;insecure=0\u0026amp;allowInsecure=0\u0026amp;type=ws\u0026amp;path=%2F#%40MiTiVPN%20-3\u003cbr/\u003evless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.6.134:80?encryption=none\u0026amp;security=none\u0026amp;type=ws\u0026amp;host=vip.yaml7.ggff.net\u0026amp;path=%2F#T.me%2FMiTiVPN%202\u003cbr/\u003evless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?encryption=none\u0026amp;security=tls\u0026amp;sni=sni.jpmj.dev\u0026amp;fp=firefox\u0026amp;alpn=http%2F1.1\u0026amp;insecure=1\u0026amp;allowInsecure=1\u0026amp;type=ws\u0026amp;host=sni.jpmj.dev\u0026amp;path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D#.T.me%2FMiTiVPN%203\u003cbr/\u003evless://8c4604ef-749c-4b56-adf1-7da405002a21@104.20.6.134:2053?encryption=none\u0026amp;security=tls\u0026amp;sni=qyi.fqjd663.ggff.net\u0026amp;fp=firefox\u0026amp;alpn=http%2F1.1\u0026amp;insecure=0\u0026amp;allowInsecure=0\u0026amp;type=ws\u0026amp;host=qyi.fqjd663.ggff.net\u0026amp;path=%2F#T.me%2FMiTiVPN%204\u003cbr/\u003evless://06ef598c-1555-4887-b3f9-08214a2f6792@104.20.6.134:443?encryption=none\u0026amp;security=tls\u0026amp;sni=2026.hhhhh.eu.org\u0026amp;fp=firefox\u0026amp;alpn=http%2F1.1\u0026amp;insecure=0\u0026amp;allowInsecure=0\u0026amp;type=ws\u0026amp;host=2026.hhhhh.eu.org\u0026amp;path=%2F222.167.202.31%3A7443#T.me%2FMiTiVPN%205\u003c/blockquote\u003e",
+      "date": "2026-04-26T18:13:16Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 52500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "ترجیحا آپدیت پچ‌های امنیتیتون، آپدیت سیستم عامل، نرم‌افزار‌ها رو سریع انجام بدید",
+      "date": "2026-04-26T18:15:15Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 49200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "خب فکر کنم قطع شد:)",
+      "date": "2026-04-26T18:24:58Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 47800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "شد:))))",
+      "date": "2026-04-26T18:37:43Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 47300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "اینهمه ما از «صیانت» و «اینترنت طبقاتی» و «اینترنت ویژه کسب و کار» میترسیدیم، آخرش با اسم اینترنت پرو بهمون انداختنش:))",
+      "date": "2026-04-27T04:27:40Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 48900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/jaywz1XUNZM3WocR5gNnsBlS7h_Y3Z1hLSNzYYyLSXVT9qT_9tUB4VKviwfOEuaDcYRRTwd-2mD4-c0kaUmpIxLOGso3D4ZmBV6Eujb3a77lBQQnZ8J-BTUjgWO_Ts2_4KHboSVUgeszoUfSd3An7egvLKcUzEav5hd8IbzGB8eeXCnyCituz9YlF8D31GTsfghka1v6j--Afu3r6UGixD9wD43X6pb-tHu8cvHTJmMjgPygPzYy1yuAlF0Lt48auqbOJ0XdcAV6m_Ti74c1Jt6IvvRu4ms8ahGZ27L5CsJm5rKN66KAEtKlrFmNZiOj0aVM2GsAyrGf1eyOdXuSew.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "صد درصد که میبندن. چون شیرش دست خودشونه.\u003cbr/\u003eاون زمان قیافه‌ی کسایی که حساب کتاب میکردن «خب، گیگی 40 تومن میفته اینترنت و VPN با هم» دیدنیه",
+      "date": "2026-04-27T04:51:43Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 46900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "برای MHR حتما از این نسخه‌ی جدید استفاده کنید دوستان که مشکل توییتر هم داخلش برطرف شده و پروکسی Socks هم اضافه شده:",
+      "date": "2026-04-27T05:28:41Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 47500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "یه متنی خوندم راجب Vibe Coding، گفتم باهاتون به اشتراک بذارم. جالب بود:\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eاستفاده از هوش مصنوعی برای کدنویسی بدون داشتن دانش فنی، شبیه به استفاده از مترجم گوگل بدون دانستن زبان مقصد است؛ شما خروجی را می‌گیرید اما هیچ راهی برای تأیید درستی یا امنیت آن ندارید. این موضوع شاید برای کارهای روزمره مهم نباشد، اما برای برنامه‌های بزرگ، بانکی یا تجاری فاجعه‌بار است.\u003c/blockquote\u003e",
+      "date": "2026-04-27T05:43:59Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 47700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "گیتهاب گویا خیلی سختگیری میکنه سر استفاده از منابعش برای VPN، مراقب اکانت اصلیتون باشید اگر از این پروژه می‌خواید استفاده کنید. شانس بن یا محدودیت دائمی وجود داره\u003cbr/\u003e\u003ca href=\"https://github.com/sartoopjj/vpn-over-github\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/sartoopjj/vpn-over-github\u003c/a\u003e",
+      "date": "2026-04-27T06:11:15Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 48900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "متأسفانه Vercel هم بسته شد",
+      "date": "2026-04-27T10:54:36Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 46700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "فعلا باید برگردیم MHR\u003cbr/\u003eاگه MHR هم بسته بشه بازگشت همگی به سوی DNS است(تسلیت)",
+      "date": "2026-04-27T11:31:48Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 46100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "دوستان، من خودم به مشکل ریستریکتد توی MHR نخوردم. اما گویا خیلیا این مشکل رو دارن.\u003cbr/\u003eهمینطور مشکل لود نشدن ویدئو\u003cbr/\u003e\u003cbr/\u003eکسایی که به این مشکلات برخوردن و تونستن حلش کنن، این زیر توضیح بدن که دقیقا چیکار کردن؟ دیپلوی مجدد برای مشکل لود یا تغییر تنظیمات برای restrected ؟",
+      "date": "2026-04-27T11:49:31Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 46200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "من جفت مشکلارو داشتم. ویدیو لود نشدن ریت لیمیت بود ایمیل تغییر دادم اوکی شد.\u003cbr/\u003eبرای ریستریکتد همین یه خط رو توی کانفیگ اضافه کنی یوتیوب موبایل ورژن میاد بالا حل میشه.\u003cbr/\u003e\u003cpre\u003e\u0026#34;youtube_via_relay\u0026#34;: true\u003c/pre\u003e",
+      "date": "2026-04-27T11:57:42Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 47000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "اگر تاپیک اسکمر‌ها رو توی \u003ca href=\"https://t.me/+5Cq0zcAP4E44NDdh\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eاین گروه\u003c/a\u003e مطالعه کنید متوجه میشید که چرا تبلیغ هرگونه بات و کانال فروش وی‌پی‌ان توی کامیونیتی ممنوعه. \u003cbr/\u003eهزاران نفر توی این وضعیت بد ازشون دزدی شده و امیدوارم با وجود این توضیحات و شرایطی که میبینید ما رو درک کنید بابت واکنش‌هایی که مجبوریم نشون بدیم مقابل هرنوع تبلیغی که میبینیم.",
+      "date": "2026-04-27T15:33:29Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 45600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "دوستان این\u003cbr/\u003e*10*400#\u003cbr/\u003eاینترنت بین‌الملل برای وقتیه که شما میری عراق. رومینگ خارج از کشوره. دیدم چند نفر خریدن🫩",
+      "date": "2026-04-27T16:07:55Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 46400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
     }
   ],
-  "last_updated": 1777929006
+  "last_updated": 1777930361
 }

@@ -1,0 +1,127 @@
+name: Build TeleMirror Portable HTML (Manual Only)
+
+on:
+  workflow_dispatch:   # فقط دستی اجرا میشه. هیچ تریگر خودکار دیگه‌ای نداره.
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout export branch (JSON files from teleFeed)
+        uses: actions/checkout@v4
+        with:
+          ref: export
+          path: export_data
+      
+      - name: Generate HTML from JSON files
+        run: |
+          mkdir -p dist/teleMirror-portable
+          
+          cat > dist/teleMirror-portable/index.html << 'HTMLEOF'
+          <!DOCTYPE html>
+          <html lang="fa" dir="rtl">
+          <head>
+              <meta charset="UTF-8">
+              <meta name="viewport" content="width=device-width, initial-scale=1.0">
+              <title>TeleMirror Portable</title>
+              <style>
+                  * { margin: 0; padding: 0; box-sizing: border-box; }
+                  body { font-family: system-ui; background: #0f0f0f; color: #fff; display: flex; min-height: 100vh; }
+                  #sidebar { width: 300px; background: #1a1a1a; overflow-y: auto; padding: 10px; border-left: 1px solid #333; }
+                  #content { flex: 1; overflow-y: auto; padding: 20px; }
+                  .channel-item { padding: 12px; margin: 5px 0; border-radius: 8px; cursor: pointer; background: #252525; }
+                  .channel-item:hover { background: #333; }
+                  .channel-item.active { background: #0078d4; }
+                  .post { background: #1e1e1e; padding: 15px; margin-bottom: 15px; border-radius: 10px; border: 1px solid #333; }
+                  .post-text { margin-bottom: 10px; line-height: 1.6; }
+                  .post-text a { color: #4da6ff; }
+                  .post-date { color: #888; font-size: 12px; margin-bottom: 5px; }
+                  .post-views { color: #666; font-size: 11px; }
+                  .config-links { margin-top: 10px; padding: 10px; background: #252525; border-radius: 6px; }
+                  .config-links h4 { margin-bottom: 5px; color: #4caf50; }
+                  .config-link { display: block; padding: 5px; color: #4da6ff; text-decoration: none; }
+              </style>
+          </head>
+          <body>
+              <div id="sidebar"></div>
+              <div id="content"><h2>یک کانال را انتخاب کنید</h2></div>
+              <script>
+          HTMLEOF
+
+          echo "const DATA = {" >> dist/teleMirror-portable/index.html
+          echo "  channels: [" >> dist/teleMirror-portable/index.html
+          
+          first=true
+          for json_file in export_data/*.json; do
+              if [ "$first" = true ]; then
+                  first=false
+              else
+                  echo "    ," >> dist/teleMirror-portable/index.html
+              fi
+              echo "    $(cat "$json_file")" >> dist/teleMirror-portable/index.html
+          done
+          
+          echo "  ]" >> dist/teleMirror-portable/index.html
+          echo "};" >> dist/teleMirror-portable/index.html
+          
+          cat >> dist/teleMirror-portable/index.html << 'HTMLEOF'
+          
+          const sidebar = document.getElementById('sidebar');
+          const content = document.getElementById('content');
+          
+          DATA.channels.forEach((ch, idx) => {
+              const div = document.createElement('div');
+              div.className = 'channel-item';
+              div.textContent = ch.info?.title || ch.info?.username || 'Channel ' + (idx+1);
+              div.onclick = () => {
+                  document.querySelectorAll('.channel-item').forEach(el => el.classList.remove('active'));
+                  div.classList.add('active');
+                  let html = `<h2>${ch.info?.title || ''}</h2>`;
+                  if (ch.posts) {
+                      ch.posts.forEach(post => {
+                          html += `<div class="post">
+                              <div class="post-date">${new Date(post.date).toLocaleString('fa-IR')}</div>
+                              <div class="post-text">${post.message || ''}</div>`;
+                          if (post.links && post.links.length > 0) {
+                              html += '<div class="config-links"><h4>🔗 لینک‌ها:</h4>';
+                              post.links.forEach(link => {
+                                  html += `<a href="${link}" class="config-link" target="_blank">📥 ${link}</a>`;
+                              });
+                              html += '</div>';
+                          }
+                          html += `<div class="post-views">👁 ${post.views || 0} بازدید</div></div>`;
+                      });
+                  }
+                  content.innerHTML = html;
+              };
+              sidebar.appendChild(div);
+          });
+              </script>
+          </body>
+          </html>
+          HTMLEOF
+      
+      - name: Create ZIP archive
+        run: |
+          cd dist
+          zip -r ../teleMirror-portable-latest.zip teleMirror-portable/
+      
+      - name: Upload to Release
+        uses: ncipollo/release-action@v1
+        with:
+          artifacts: 'teleMirror-portable-latest.zip'
+          tag: portable-latest
+          name: 'TeleMirror Portable (دستی)'
+          body: |
+            📦 **TeleMirror Portable HTML**
+            
+            بدون نیاز به هیچ نصب اضافه. فقط `index.html` رو باز کنید.
+            
+            📅 تاریخ ساخت: دستی
+            ⚙️ نوع اجرا: فقط دستی (Manual)
+          allowUpdates: true
+          makeLatest: true

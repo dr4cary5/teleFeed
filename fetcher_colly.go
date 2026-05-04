@@ -134,14 +134,12 @@ func fetchChannelDataWithColly(username string) (*ChannelData, error) {
 
 		// Extract uploaded videos
 		e.ForEach(".tgme_widget_message_video_player", func(i int, videoPlayer *colly.HTMLElement) {
-			// Get video URL from href
 			if videoURL := videoPlayer.Attr("href"); videoURL != "" {
 				media := Media{
 					Type: "video",
 					URL:  videoURL,
 				}
 				
-				// Get thumbnail from background-image
 				if thumbElem := videoPlayer.DOM.Find(".tgme_widget_message_video_thumb"); thumbElem.Length() > 0 {
 					if style, exists := thumbElem.Attr("style"); exists && style != "" {
 						if strings.Contains(style, "background-image:url") {
@@ -151,17 +149,15 @@ func fetchChannelDataWithColly(username string) (*ChannelData, error) {
 								end := strings.Index(style[start:], "')")
 								if end != -1 {
 									thumbURL := style[start : start+end]
-									media.URL = thumbURL // Use thumbnail as video preview
+									media.URL = thumbURL
 								}
 							}
 						}
 					}
 				}
 				
-				// Get video dimensions
 				if videoWrap := videoPlayer.DOM.Find(".tgme_widget_message_video_wrap"); videoWrap.Length() > 0 {
 					if style, exists := videoWrap.Attr("style"); exists && style != "" {
-						// Extract width from style="width:1920px"
 						if strings.Contains(style, "width:") {
 							start := strings.Index(style, "width:") + 6
 							end := strings.Index(style[start:], "px")
@@ -176,7 +172,6 @@ func fetchChannelDataWithColly(username string) (*ChannelData, error) {
 			}
 		})
 
-	
 		// Extract document files
 		e.ForEach(".tgme_widget_message_document", func(i int, docElem *colly.HTMLElement) {
 			if docURL := docElem.ChildAttr("a", "href"); docURL != "" {
@@ -189,13 +184,25 @@ func fetchChannelDataWithColly(username string) (*ChannelData, error) {
 			}
 		})
 
-		// Only add if we have some content
 		if post.ID > 0 || post.Message != "" {
-			// Remove empty caption to avoid showing it in JSON
 			if post.Caption == "" {
 				post.Caption = ""
 			}
 			channelData.Posts = append(channelData.Posts, post)
+		}
+	})
+
+	// Load more posts (up to 5 pages = ~100 posts)
+	pageCount := 1
+	c.OnHTML(`.tme_messages_more`, func(e *colly.HTMLElement) {
+		if pageCount >= 5 {
+			return
+		}
+		if nextLink := e.Attr("href"); nextLink != "" {
+			pageCount++
+			fullNextLink := "https://t.me" + nextLink
+			time.Sleep(3 * time.Second)
+			c.Visit(fullNextLink)
 		}
 	})
 

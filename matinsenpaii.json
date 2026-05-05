@@ -3,40 +3,16 @@
     "id": 0,
     "title": "Matin SenPai",
     "username": "MatinSenPaii",
-    "photo_url": "https://cdn1.telesco.pe/file/OkkGZuZ235tPBS-b8IfcF4XsugQXu2vPoOr5wcfXZBT34CxNaGCFqr4EDdx453yZpmvNNIq54Kp4hW3-Ia_0GutFtn3v82pqEUGljkR8SFHtqxabDskybqzU71dW6KiZbWsNcVkddMpZ872mfJQZ5SdV3_oL-E2q81CJlbVExTY-G1N4Z42-boeN_aG6YMKSmDT-P3e_p84-GQM9dAqIWowEDuuczJyfAeDHOM9hpe1A78Vxz73spPwSEPdTh24Fs3OWmhFDwNuF2C_zYq95_uPRqmlpoD--8gtA1VvCs-rQ64WrTbBFOf3zBZxtj6hb_JSTUKyowBTiuaJ60a-yUw.jpg"
+    "photo_url": "https://cdn1.telesco.pe/file/vidvkuThw_Hy8mkxc7tPtSwTiWtIP_qxFgVLmq6PnRK43laYox0Adh5Fg2AsF9uXjtkktBCyhuXGUDR4UwkgNcLln-IZ5twFkmczeK-aTAmeXsG_Fr4wxBxjsLQF0LLYtNr4pntSY8eT7gbalUhGKj_uH8bl2MqhR0_SfUeOA2AMRVbNCEav_Sz6lZyMrjedLbmErBJyjno6pZyNlCk4ODqxRwQNKhYshWs_i0M4wLH3ULhxeFP3QwYnSnj9kcsedkAllQkTq4fRBxWwHAfJ3mSr5OCpHSXkZpnjyK9a8haAZ2mTrVJJ7Bg6bsXrJ-kIzwt2yVWeRKAprUtJR_johg.jpg"
   },
   "posts": [
-    {
-      "id": 0,
-      "message": "دیروز به گوشم رسید یکی متد نامحدود خریده بوده 2 میلیون تومن\u003cbr/\u003eوقتی که خریده \u003cbr/\u003eطرف گفته خب حالا متد رو الان واست میفرستم\u003cbr/\u003eپست‌های کانال من راجب MHR رو واسش فوروارد کرده:)))\u003cbr/\u003e\u003cbr/\u003eمراقب باشید اینجوری اسکم نشید دوستان. هر متد عمومی‌ای که باز بشه من و بقیه‌ی بچه‌های کامیونیتی اعلام میکنیم.",
-      "date": "2026-05-03T16:06:16Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5215334566549540768\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AC.png\u0026#39;)\"\u003e\u003cb\u003e💬\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eیه سری مطالب از Repo سازنده‌ی MHR واستون قرار میدم(مربوط به این روش: \u003ca href=\"https://t.me/MatinSenPaii/2785\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/MatinSenPaii/2785\u003c/a\u003e) :\u003cbr/\u003e\u003cbr/\u003eاول از همه دقت داشته باشید که به روز ترین نسخه‌ی \u003ca href=\"http://code.gs/\" target=\"_blank\" rel=\"noopener\"\u003ecode.gs\u003c/a\u003e رو حتما از گیتهاب پروژه گرفته باشید: \u003ca href=\"https://github.com/masterking32/MasterHttpRelayVPN/blob/python_testing/apps_script/Code.gs\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/masterking32/MasterHttpRelayVPN/blob/python_testing/apps_script/Code.gs\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5411197345968701560\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e1- برای اسکن سریعترین IP گوگل، این دستور رو اجرا کنید:\u003cbr/\u003e\u003cpre\u003epython main.py --scan\u003c/pre\u003e\u003cbr/\u003eو بعدش توی config.json، آیپی پیدا شده رو توی بخش \u003ccode\u003egoogle_ip\u003c/code\u003e قرار بدید اونی که پینگ کمتری از همه داره.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5411197345968701560\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e2- گوگل و یوتیوب باز می‌شن، ولی ویدئوها پخش نمی‌شن و سایت‌های دیگه هم باز نمی‌شن:\u003cbr/\u003e\u003cbr/\u003eالف) محدودیت روزانه 20کا ریکوئست شما تموم شده. تا فردا صبر کنید ساعت 10:30 صبح\u003cbr/\u003eب) deployment شما مشکل داره و باید مجددا روی همون اکانت گوگلتون پروژه رو دیپلوی کنید\u003cbr/\u003eج) اکانت شما فلگ شده و باید با جیمیل دیگه‌ای دیپلوی کنید بالکل پروژه رو روی یه جیمیل دیگه دیپلوی کنید\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5411197345968701560\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e3- ارورهایی از جمله certificate error و ... به خاطر نصب نبودن سرتیفیکیت هستن. ویدئو رو با دقت ببینید و سرتیفیکیت‌ها رو نصب کنید\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5411197345968701560\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e4-  خطای unauthorized: مقدار auth_key و AUTH_KEY باید یکسان باشه از سمت گوگل و فایل شما\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5411197345968701560\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e5- ارور timeout آیپی گوگل فیلتره واستون(به سؤال 1 مراجعه کنید)\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5411197345968701560\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e6-  سرعت کم: سازنده گفته که استفاده از چندین deployment_id و چندین اکانت گوگل، این مشکل رو حل میکنه",
-      "date": "2026-05-03T16:43:53Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Matin SenPai"
-    },
     {
       "id": 0,
       "message": "سلام به همه دوستان\u003cbr/\u003e\u003cbr/\u003eنسخه جدید تستی WhiteDNS آماده شد. ممنون از همه کسانی که نسخه‌های قبلی رو نصب کردند، تست گرفتند، لاگ فرستادند و با فیدبک‌هاشون کمک کردند مشکلات رو پیدا و برطرف کنیم.\u003cbr/\u003e\u003cbr/\u003eدانلود سرور داخلی \u003cbr/\u003e\u003ca href=\"https://uplod.ir/gce7505a78tl/WhiteDNS-Beta3.zip.htm\" target=\"_blank\" rel=\"noopener\"\u003ehttps://uplod.ir/gce7505a78tl/WhiteDNS-Beta3.zip.htm\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://guardnet.ir/f/whitednsB-3share\" target=\"_blank\" rel=\"noopener\"\u003ehttps://guardnet.ir/f/whitednsB-3share\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eدر این نسخه تغییرات زیادی روی ظاهر، پایداری و مدیریت کانفیگ انجام شده:\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e طراحی اپلیکیشن کامل بازطراحی شده و حالا ظاهر جدید، ساده‌تر، مرتب‌تر و دارک دارد\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e دارک مود و رنگ‌بندی جدید برای خوانایی بهتر اضافه شده\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e امکان ساخت چند پروفایل کانکشن اضافه شده\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e امکان ساخت چند پروفایل ریزالور اضافه شده\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e انتخاب پروفایل کانکشن و پروفایل ریزالور ساده‌تر شده\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e لاگ‌ها جدا شدند و حالا خواناتر نمایش داده می‌شوند\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e امکان کپی و خروجی گرفتن از لاگ‌ها اضافه شده تا اگر مشکلی داشتید راحت‌تر برای ما ارسال کنید\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e دکمه Reset to Default برای برگرداندن تنظیمات پیشرفته به حالت پیش‌فرض اضافه شده\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e تنظیمات اضافه و گیج‌کننده تا حد ممکن مرتب و حذف شدند\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e دسترسی Battery Optimization اضافه شده تا اتصال در پس‌زمینه پایدارتر بماند\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e باگ کرش کردن اپلیکیشن بعد از Disconnect مخصوصا در حالت Full VPN برطرف شده\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e نسخه جدید بهینه‌تر شده و لاگ‌ها فقط آخرین موارد مهم را نگه می‌دارند تا روی عملکرد اپلیکیشن فشار نیاورد\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e حالت Proxy Mode به عنوان گزینه پیش‌فرض قرار داده شده چون عملکرد بهتر و پایدارتری دارد\u003cbr/\u003e\u003cbr/\u003eپیشنهاد ما این است که اگر امکانش را دارید از Proxy Mode استفاده کنید. حالت Full VPN هنوز برای تست وجود دارد، اما چون کل ترافیک دستگاه را از تونل عبور می‌دهد ممکن است سرعت و پایداری پایین‌تری داشته باشد.\u003cbr/\u003e\u003cbr/\u003eهمچنین اگر سرور StormDNS شخصی دارید، بهتر است از سرورهای خودتان استفاده کنید. فشار زیادی روی سرورهای عمومی WhiteDNS وجود دارد و استفاده از سرور شخصی هم برای شما پایدارتر است و هم کمک می‌کند سرویس عمومی برای بقیه کاربران بهتر کار کند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e این نسخه هنوز Beta است. یعنی نسخه نهایی نیست و ما داریم با کمک شما قبل از انتشار رسمی تستش می‌کنیم. ممکن است هنوز روی بعضی دستگاه‌ها یا بعضی شبکه‌ها مشکل وجود داشته باشد. اگر مشکلی دیدید، لطفا از بخش Logs خروجی بگیرید و برای ما ارسال کنید.\u003cbr/\u003e\u003cbr/\u003eلینک کانال:\u003cbr/\u003e\u003ca href=\"https://t.me/whitedns\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/whitedns\u003c/a\u003e",
       "date": "2026-05-04T06:09:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30000,
+      "views": 33600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -44,11 +20,11 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Rerp4fDl64nCiUB8h17CLNuV26dCtiiRYBritVjDFUG3FO9nNX3TVJ8k9rxUTsotO3y0bxpN4kMR94OW8rwJhQEy_T_u45pTEDicjQSpx5-wPnjJ9zYMM2GB8SqUHRzVCYL3n0R2rnmwZ0pXNd4sGN_D1qn-Bh6bMf4vALHcAhcprRmwJyqV2nsC09RAJ2LFV3lfM1l_52-5RfZ2wK4XG8OsY5mB706hjmGLavwBYouAZUf5s6IvOjqOJ-BrFhwr-XVIxgHo7A4D67_EYBNbfh70GTqSLclm0Mo9aWUIPZyzuw76zVcqVBkQqgn1RYdR5neASD0559U0ij9kpDuw_Q.jpg"
+          "url": "https://cdn4.telesco.pe/file/NtUErwmMyvea9vGtqZAbM40DcaW7723hSvLQxCihRj_015do-fXFD0w_YrCUF54gX8AxRLqNwGWSKFY21hzB-nJpn-Kzc28GhLXvCK2-6lpVK7kPlximRaTDXVO8ZPblQdvAoPnA5TUrCEvcwXeW7lJvJUDVVj8c2HHqVRI-KHMdTozdqhf5dV601GgWYD5dseHTEjjSGJfi7A8BhLQYKYCHWU7T3WzSCkOSmIRCI-emh8aOMmBtBqZ1S9J5VvRp4nu8Z-mlQJhaMdTKd3XoZrnPm_nsNjBu2zXcXvopGJ6s-gGw_NnNi2-Ebiy6K1YQARqgwAPrHGDUQwz8Ho_-Sw.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/QQbbT4aV71cqXgaWH301PeVx5cdCusQPfcWzQRbeMEPRGx46yln8HFkzn0w3Ng25-jA4vi-R80_w2NBtezLQOa7AR18sbI304fmYjmUZCtAAE8uUWk_0k5g5zL1k3w-agTklxyCjblHhXookGXUIAlJeNNaqBhG6j2E5v8IoY2rzjTOFkPOHROeG-OFE03JQZL29jnhyHH0NViq5Jcd45YzhSuElRIUY17a1Khsc0CFsfIbxs8YE-arm_c4OlgggfjYfVJ8eivEZBmb8oiMoMyDGLWf65O3T7xrtbftebZZEvzIzNuY_Y-LR_byYhw1petFdalbJ-tzxkS8AzSG6dg.jpg"
+          "url": "https://cdn4.telesco.pe/file/kmPf_G98-9TT5m26u3NEtpIWo7oIuTRKOJ9VyKcEYw7NyFvgjVPmfQdfePXBYydlu-Ubr32Y1eweA8aGVzuaGGYExmcLpvc4nmI37Kk3shCE5pNkLDhQpjSdTGde-fBmR59vmW2rh0SwFAUORRPtpCTA1b8bBn2GnpXwtf1ApkI74KciqVukHunT2CsVeSAVhUVIuLg_Yp20xnQfI_Y24MuVst9Yws_oxk3Lunzq2vuOHInYsuRvYAf1EzyPEo1IJ_NCkb0GHvppB28IyzMo4OJkMIWT59C7KYAIWUIP7I5lU2zW9YTCcMT_cJiHZnbbzeSHq6sy24RFmBZNOUm4lw.jpg"
         }
       ]
     },
@@ -58,7 +34,7 @@
       "date": "2026-05-04T06:10:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33700,
+      "views": 37600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -70,7 +46,7 @@
       "date": "2026-05-04T08:01:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35000,
+      "views": 39800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -82,7 +58,7 @@
       "date": "2026-05-04T08:15:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 41900,
+      "views": 49400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -94,7 +70,7 @@
       "date": "2026-05-04T13:27:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31500,
+      "views": 39100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -106,7 +82,7 @@
       "date": "2026-05-04T13:40:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31900,
+      "views": 40500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +90,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/gNLn4s7fxsU-ILhdIlxs7aDdivl2EiCBFxZzBLUuObYPgW0ISMC5Hf1Slp-TGQLCGjdBzq6_M-KeJFblfNNSpjyYk50itGiqVyTFDWHyUofNt3J_-qfqVxj9DZPUGHfyQG9C8L6mP12awbfOLpORhu8kZe9F4lBarHqvbyreAxlIndCfbl2kJz16zH00-zWrSIATDL4ZRk9mkS3zYAbFxfchVFR0wIATelwZFGtJXflI8WiOOVe8uYQ2bQAcyHyoqBgNWOUlz_-tap6X1Rhg908VFG-nAn5kbsCBcAJH7CBQ0cINCQ8MJ8IpDJmIahCQL1U2NPcxMYHtmMuQoVU16w.jpg"
+          "url": "https://cdn1.telesco.pe/file/MeKH9tj6_CL4yUEQz7wA4Fdb5wRsnS1JFnuwrvHVapAVjgyl6BRS0ndZw8FZyqQzS0N3sijwrqQkrR7IvAj6ChJ-gMvVwhT4NwK29zuhSkOyievz_JQ8xrxzvEquWEi35ObUFD0eBD7qkaKqt60b8tP0rnFC5M5C1JbgbJoXYhoaS4Su8R1Q50jsndBC5ygQjhdBsBdOJQYiuUzd0LHCQOatjtkrPMougkFSS-0nVErlG0t-6g5k-R_rmGHeY6eoaVOAx20p7eHyy6hoOFalQeK3xzJvdB16E8OaF-xLnaz7BagkzGdnUaBZijLcqBEiveCSF8cIIst8bwTU7UQFmA.jpg"
         }
       ]
     },
@@ -124,7 +100,7 @@
       "date": "2026-05-04T13:45:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32400,
+      "views": 41500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -148,7 +124,7 @@
       "date": "2026-05-04T15:13:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30400,
+      "views": 40500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -160,7 +136,7 @@
       "date": "2026-05-04T15:13:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30500,
+      "views": 40700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -172,7 +148,7 @@
       "date": "2026-05-04T15:39:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28900,
+      "views": 40200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -184,7 +160,7 @@
       "date": "2026-05-04T17:55:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20800,
+      "views": 36800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,17 +168,17 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/nJsGL5ZDxLcAy9GELlVyC2lZzUkZz7CeUf-FC63WETN_8PAY_I15cYTuCpgKb3J_gF05Hs8d-GN-OVOcSJYDYY0TXhYZxy7k7sRrkrskTaCLsf9dtyGw6SfWacHR9Ac8rcC2B_iRI26PPkQPLhCLc0xvlKgxTV2zh1ccQHUlmo4pUytgIvEzvTUc3BfDLIuDRQwCvEXQ3tVqcHrNWvDw3Dgsj1eMicoGIf8rvoCCY2xpvXixnLL_qSqBYHc35XmsJWbOBJtUg_jHNkzczCLIbZ_LDPpuMiqZ8F7QUwEV9OpWGWfzysJdtc_ufIk6LJeRAi7335ELLpwfMSLyiHw9Wg.jpg"
+          "url": "https://cdn4.telesco.pe/file/lDokUfcLFAeOEAf3-7crcUroYLtimvshwE0D8FRfjm7L6dBAxm8V4jAg7z7zzKdtAeKmX79cnMljR3Jn_y39ZPiwi80KO5XqiOii_H-faVtDZlIvF7yuvL5iVBpV0twXW_VVjykrv42_0N4bCxKXMHNAXjGQxY170lio8-2nj8FfV5T8MqCOny9Crc6pztzCnzapFw2IKNviOS2EsaidBBvrS68IbX7V95MX0mhOavh-5UXQZjUAFfRWk5VQVnE0-bFEng4zC3VeGjZWYDyRdPWR5bYAuXluBMz9LXpId89iX4C5K4MOt7HMSWFvpQDL7kJ3_EaRVuPsJRJDnRhHCg.jpg"
         }
       ]
     },
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"4956725085189702857\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F97A3.png\u0026#39;)\"\u003e\u003cb\u003e🗣️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e سوالات رایج شما راجع به متد MHR-CFW :\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003cbr/\u003e1.\u003c/b\u003eمتد بار اول پینگ داد بارهای بعد نداد\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eممکنه مشکل از پایتون یا تموم شدم ریکوئست‌هاتون باشه. باید لاگ cmd رو چک کنید \u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e2.\u003c/b\u003eراجع به نصب سرایفیکیت روی ایفون لطف کنید روش mhrcfw که بتونیم نت لپ تاپ رو روی گوشی هم داشته باشیم\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eراجع به آیفون پیام \u003ca href=\"https://t.me/MatinSenPaii/2922?comment=565510\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eاین دوستمون\u003c/a\u003e رو بخونید\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e3.\u003c/b\u003e من بدون هیچ مشکلی وصلم همه چی کار میکنه وقتی  میخوام اینستا لاگین کنم همش چک باکس نات ربات میاد هرجوری تکمیل کنم دوباره میاد\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eبخاطر آیپی کلودفلر هست، اگر از قبل لاگین نباشید تو اینستا نمیتونید کاریش کنید\u003cbr/\u003e\u003cb\u003e\u003cbr/\u003e5.\u003c/b\u003eسرعت خیلی ضعیف نسبت به mhr\u003cbr/\u003eدرحدی که صفحه گوگل هم به سختی میاره\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eدوباره دیپلوی کنید \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e7.\u003c/b\u003eبرای من پینگ نمیده و وصل نمیشه\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eحتی اگر اکانتتون مسدود شده باشه هم باید پینگ بده، یا یجایی از کد رو اشتباه زدین یا کتابخونه‌هاتون درست نصب نشده\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4956368164817470478\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eدرنهایت، سوالاتی که بهش پاسخ داده نشده توی ویدیو توضیحش هست، لطفا یکبار ویدیو رو کامل ببینید و به جزئیات در هر مرحله توجه کنید\u003cbr/\u003e\u003cbr/\u003eلینک این پست رو سیو کنید؛ اگر به سوال جدیدی پاسخ داده بشه توی همین پست گذاشته میشه",
-      "date": "2026-05-02T14:08:28Z",
+      "message": "سؤال: چرا قیمت کانفیگ‌فروش‌ها پایین اومده یهو؟\u003cbr/\u003eجواب: 1- تعداد زیادی از کانفیگ‌فروش‌های حال حاضر، زرنگی کردن به حساب خودشون و اومدن از سیمکارت‌های پرو و سفید استفاده می‌کنن، و تا می‌تونن می‌فروشن. \u003cbr/\u003e2- همینطور یک تعدادی هم از متدهای خاصی که رندوم واسشون جواب داده استفاده میکنن(به طور مثال یه range آیپی وایت شده سرور ایران اینا هم جزوشون بوده یا استفاده از Shecan) \u003cbr/\u003e3- استفاده از اینترنت طبقاتی شرکت‌ها، سازمان‌ها و یا دانشگاه‌ها و اساتید.\u003cbr/\u003e4- دلایل دیگه‌ای هم هستن که یا من نمیدونم یا حضور ذهن ندارم.\u003cbr/\u003e\u003cbr/\u003eبه خاطر همین قیمت کانفیگ پایین اومده. منتها من پایداری زیادی درونشون نمیبینم. اگر جایی ارزون دیدید که اوکی بود هم، کم کم بخرید. یهو نرید 50 گیگ بخرید",
+      "date": "2026-05-05T12:52:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 45300,
+      "views": 31900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,11 +186,11 @@
     },
     {
       "id": 0,
-      "message": "نسخه‌ی جدید \u003ca href=\"https://github.com/therealaleph/MasterHttpRelayVPN-RUST\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/therealaleph/MasterHttpRelayVPN-RUST\u003c/a\u003e رو حتما امتحان کنید.\u003cbr/\u003eخیلی خفن‌تر شده\u003cbr/\u003eو میتونید روی اندروید هم وصل بشید(اما با ip ایران خودتون)",
-      "date": "2026-05-03T08:13:20Z",
+      "message": "یک نفر 47 دلار دونیت کرد. ممنونم ازت هر کس که بودی\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e کمک‌های شما حمایت و دلگرمی بزرگیه اما دلیل فعالیت من نیست. کار من همیشه بدون چشم‌داشت بوده و هست",
+      "date": "2026-05-05T17:02:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 39300,
+      "views": 21800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -226,7 +202,7 @@
       "date": "2026-05-03T08:14:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37600,
+      "views": 39200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -238,7 +214,7 @@
       "date": "2026-05-03T08:23:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36000,
+      "views": 37600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -250,7 +226,7 @@
       "date": "2026-05-03T08:24:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35700,
+      "views": 37200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -262,7 +238,7 @@
       "date": "2026-05-03T08:25:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36700,
+      "views": 38300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -274,7 +250,7 @@
       "date": "2026-05-03T08:27:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36300,
+      "views": 37800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -286,7 +262,7 @@
       "date": "2026-05-03T08:31:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37200,
+      "views": 38800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -298,7 +274,7 @@
       "date": "2026-05-03T10:09:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33900,
+      "views": 35500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -310,7 +286,7 @@
       "date": "2026-05-03T10:35:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32600,
+      "views": 35000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -318,7 +294,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/K0tb1TqFsGUg9vWY0FfvbYVav5SWvG6lognzzZOI62NCb5sKLXknsiwiSGVqlVfayQidRD13Plysx8XU3HRkAjhY_1cD3T-Wd-79ksIk773nrM6E3plSIFG1Bz0V2JhjFR6uht6Wc187gS9XbyINQUWfuzOybIQ60mKP54L6NW5Ht9187UKuVeuDwzJTGQyXkOsvPCx64eqhxGQOcR7eOg5jHMgzon5e5bHfn4PeVl97rRE6l9VdWie3NSz_KV9Ahi_WE3Zw5lrvNrwfNojrDvICqLdXDwoixPIi3gZLvyAsZjRloIFPVsbqzsAyQzMo4VRWO1_DKRBzYTf0N_VLBA.jpg"
+          "url": "https://cdn4.telesco.pe/file/DML5afIV2T1yyFUbxA-e6bZh7P7m6CW-yrcSDj1-b1MpCMHVbjGATO-KeH7aVyy0vuXrredGTt_lhqiXqwDb4ZzVLOuvXqtngrZWQaJ6qLaTaBuAOJLugb5Ap1cwr6AFrUGneJhmepHnwHbQ6nb8hvuykgmA60zo7Kqvp31OpzYhEwZJgtyrEMNHD2c_GcWcH9iPWIZa-Jfo30uVGMsN-kgJyRkvtH_6qJ1OVT6PCrWqDG-aejwHI5gulVy7i_QdFioFZVR04k4i-NDeRFZIuO13wtJr2k_DTxZAwbaN0VenPM2XyYGJ2WOX6cWRtMG6U6MLsUmriqxIOLgALXojXw.jpg"
         }
       ]
     },
@@ -328,7 +304,7 @@
       "date": "2026-05-03T10:35:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32100,
+      "views": 34700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -340,7 +316,7 @@
       "date": "2026-05-03T10:37:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37700,
+      "views": 40200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -352,7 +328,7 @@
       "date": "2026-05-03T10:37:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37700,
+      "views": 39600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -364,7 +340,7 @@
       "date": "2026-05-03T11:06:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36600,
+      "views": 38400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -376,7 +352,7 @@
       "date": "2026-05-03T11:20:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37700,
+      "views": 39700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -384,7 +360,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/RCcOOWsUTm0ZpAwnh3OGujXb0mwDSn1XW2sAGSr_K_lFPuY3sdJSsdq9kc7A_2AKwWO7Rx50UxJ-lChLRPELSLYwwNmkYXkDPl10fWqG8JeAH8fwMb04xVv3R95edNzXxSUzTe1Y7foNF3441tgPfE4VtcWVm8jfA7PT4cNR0CHijcruLCBWFy3US87aLBcOpQQsg5WpaV-OJ-BrPSUJvSHrWSHFpI9anHicVJSek4wdPhsn4Q7aAgSXFiKqykexohKj1b5Pu0WI50qpfiXMQclyEVjgLYTNbYiuv830mbc9CrLqqZ6zMnWZUltKsph6C7nZ39JJ4Nao_B6w8R6fjQ.jpg"
+          "url": "https://cdn1.telesco.pe/file/KATMvpzJaweVEakNSBu4OkMl0Jd1txatzmBwGSMxEScMlpQ04wr-UzypazEamaXBdxUbfffpzBVDF62eOJKOfIVHO-E9VCICENANqdxg5QXo9rTBr0dvwJu00o2E5X3EXhrU4bA-7e72BM10ii_kk5lhmbQ0PDasJxztz1itdKLyQyBWG-hqjLJ-INBX1qQa6jKFgaZAVg9gwdFmYUzWRiuV256itUUzSkVXV-yFzkd9wpqrvyQzdlstr1JvliIogOYTiIQQIHjnzcBlFVennlFiWEFXHPbQbhHWMeT5B7MkKLO6FoUTruBLPLxfxakzWA30MHozSKUyj7ikWDIEVg.jpg"
         }
       ]
     },
@@ -394,7 +370,7 @@
       "date": "2026-05-03T12:44:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36600,
+      "views": 38900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -406,7 +382,7 @@
       "date": "2026-05-03T12:47:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36400,
+      "views": 38500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -418,7 +394,7 @@
       "date": "2026-05-03T15:01:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37000,
+      "views": 39500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -426,7 +402,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/BxYroFbCKUpJR3HgxtGWJucVAFrUQeEGJvdRrNmJMpQ0FMo_ao7YREPmGlkiCInz5TGZM6gSSmwXw0pW3fiyA7B3c8AtrgI8SPR8Qa48LVkb93-pqRjFNM8WgYWZD1eS5IBRtW7Ht2Y9xjs_fsWvACagtVNw1eFp1G8zoyTIZ1idt84re6zr4woi4ggVdKGwVfUjemKJ5IJvUsojQ9Co0aetVQGXZEeN7_9Vm9OMbrYtP4VmJ2ewS1V1doS5Y2BLjY30OOoYPGNbGIsVwXV9S7hWgKIqcEIgYFYFhPQ9pre-Y_-P24-oG1pmIVU78h23Nrsr7GbxgCgHPhw4bV3UKg.jpg"
+          "url": "https://cdn1.telesco.pe/file/ALCpdrYVyqM0NES7ZagxIdHbAuNh4Nv0ndOx4M7X6L0keKT2XUzdrR5c9KRrm2JfgcIBwOZ2u2VjI96wTZo35gFGKSTntNgH8IFWDU_-lowu5Vw5C6-GE5aaQvXs1SZ-YsTtFkYSg3ihWfkYwo8hMYK3My1FzeHyFqusZoe8uWTfIL3uOm6keQACkUSdnSMcR_2BzU3iSfOa-CIAqPcrE9OJNlSeDJ4DusRVbU4jO18j_J4QPha2VNa2igREbyRtaq-HJxh861nk6fiqFUhG10LiAjjNegwrI1Rr59beB30ikumRcci05sALY_JuRuYyUxQ7_8yQmuVuVemNZDgnDg.jpg"
         }
       ]
     },
@@ -436,7 +412,7 @@
       "date": "2026-05-03T15:08:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36800,
+      "views": 39200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -448,7 +424,7 @@
       "date": "2026-05-03T15:53:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36500,
+      "views": 39100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -456,29 +432,23 @@
     },
     {
       "id": 0,
-      "message": "این MHR-CFW هم چیز جالبی بودش",
-      "date": "2026-04-30T21:24:09Z",
+      "message": "دیروز به گوشم رسید یکی متد نامحدود خریده بوده 2 میلیون تومن\u003cbr/\u003eوقتی که خریده \u003cbr/\u003eطرف گفته خب حالا متد رو الان واست میفرستم\u003cbr/\u003eپست‌های کانال من راجب MHR رو واسش فوروارد کرده:)))\u003cbr/\u003e\u003cbr/\u003eمراقب باشید اینجوری اسکم نشید دوستان. هر متد عمومی‌ای که باز بشه من و بقیه‌ی بچه‌های کامیونیتی اعلام میکنیم.",
+      "date": "2026-05-03T16:06:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 42600,
+      "views": 39200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "Matin SenPai",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/CReTcf_d7_Ce65H430xE7OhySJhvGvdn-ZtEO0z0ZogDQzmjgLn-KxzFlxhJYIc6t_zZF2QXyZG-xNdIn0E8chTeIbGR2niD1W1jy1mq48Jp3cc5P94J6EAqir6XPwX3WvFTUxyE31YmiQNJikM2MvkKkgwHzIcm2cdEqSs1-x0IoekE2bHzJCLWNzIE3aDrgV32bXibQYUr4YXB3B3bsVk5xjXJL8PgojEisf-7cFrF47Kx4Fwg0KYYAbmOR-ftRH8TyzmmJJcGLI_SZmj3ObV2RTXI4uhlvodB-jMr7z5_Qbk71UXxlfRuQT3-YkNMc84aYd4hsAcOXWLDMqoIqA.jpg"
-        }
-      ]
+      "sender_name": "Matin SenPai"
     },
     {
       "id": 0,
-      "message": "نه من همین الان باهاش وصلم و یوتوب و اینستا و تلگرام وب و همه چیز اوکیه",
-      "date": "2026-04-30T21:25:04Z",
+      "message": "\u003ctg-emoji emoji-id=\"5215334566549540768\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AC.png\u0026#39;)\"\u003e\u003cb\u003e💬\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eیه سری مطالب از Repo سازنده‌ی MHR واستون قرار میدم(مربوط به این روش: \u003ca href=\"https://t.me/MatinSenPaii/2785\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/MatinSenPaii/2785\u003c/a\u003e) :\u003cbr/\u003e\u003cbr/\u003eاول از همه دقت داشته باشید که به روز ترین نسخه‌ی \u003ca href=\"http://code.gs/\" target=\"_blank\" rel=\"noopener\"\u003ecode.gs\u003c/a\u003e رو حتما از گیتهاب پروژه گرفته باشید: \u003ca href=\"https://github.com/masterking32/MasterHttpRelayVPN/blob/python_testing/apps_script/Code.gs\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/masterking32/MasterHttpRelayVPN/blob/python_testing/apps_script/Code.gs\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5411197345968701560\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e1- برای اسکن سریعترین IP گوگل، این دستور رو اجرا کنید:\u003cbr/\u003e\u003cpre\u003epython main.py --scan\u003c/pre\u003e\u003cbr/\u003eو بعدش توی config.json، آیپی پیدا شده رو توی بخش \u003ccode\u003egoogle_ip\u003c/code\u003e قرار بدید اونی که پینگ کمتری از همه داره.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5411197345968701560\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e2- گوگل و یوتیوب باز می‌شن، ولی ویدئوها پخش نمی‌شن و سایت‌های دیگه هم باز نمی‌شن:\u003cbr/\u003e\u003cbr/\u003eالف) محدودیت روزانه 20کا ریکوئست شما تموم شده. تا فردا صبر کنید ساعت 10:30 صبح\u003cbr/\u003eب) deployment شما مشکل داره و باید مجددا روی همون اکانت گوگلتون پروژه رو دیپلوی کنید\u003cbr/\u003eج) اکانت شما فلگ شده و باید با جیمیل دیگه‌ای دیپلوی کنید بالکل پروژه رو روی یه جیمیل دیگه دیپلوی کنید\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5411197345968701560\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e3- ارورهایی از جمله certificate error و ... به خاطر نصب نبودن سرتیفیکیت هستن. ویدئو رو با دقت ببینید و سرتیفیکیت‌ها رو نصب کنید\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5411197345968701560\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e4-  خطای unauthorized: مقدار auth_key و AUTH_KEY باید یکسان باشه از سمت گوگل و فایل شما\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5411197345968701560\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e5- ارور timeout آیپی گوگل فیلتره واستون(به سؤال 1 مراجعه کنید)\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5411197345968701560\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e6-  سرعت کم: سازنده گفته که استفاده از چندین deployment_id و چندین اکانت گوگل، این مشکل رو حل میکنه",
+      "date": "2026-05-03T16:43:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 43700,
+      "views": 39900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -490,7 +460,7 @@
       "date": "2026-04-30T21:26:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 44200,
+      "views": 45600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -502,7 +472,7 @@
       "date": "2026-04-30T21:27:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 43100,
+      "views": 44500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -514,7 +484,7 @@
       "date": "2026-04-30T21:32:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 44400,
+      "views": 45900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -522,7 +492,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/Gh2hm5psI8n-GQugC_8GEGY-MHTJZx0ZBtbuW4TootKlzj8j1D66qOZz2HbJkkWkxnMbkGDluLcIDRnfoHAzLWHWvhrfO_TGp4_x9A1OvyYakD7WpRLlfgQLZe9bk13Jn9Xz2qX4_VqDZu4wxBTv5k5WzToqlp8iaVvDDDX6uBS92XBWVi-UZlAFjGEYc8GZVndfH3W5F28JLwRT42FyV0FXS02eAFrVfitAeYsdNeUxu7rOfGZg_Pp7Qav1v8468CDPkQ1q1bXolLvQzEpmQgSmVhisV42xSZWJP-06MW-19N4TAvDi4W_tFVdes5dxGtfQUJT8zxVoO-B9Ew1KiQ.jpg"
+          "url": "https://cdn1.telesco.pe/file/R16NiKpwFakBbcdXfN1LUB6lB0uBUthJT6tKB2mpTRlgewLomcLze8Pzq0MOCwgph7xJPD9_1S1DP2BHNax3I-hrnUe762Cn2WqlsAZ1zYs_IQapXhWVcTg7lwkjjl_aHpT_ryN079p_eF12-X2m9gAbj3Nfe5pz-Hn775ryLR5sJeMclUO2naShdkibjKYy3WR4tE3N0eCGGGXHaBKBo7T05UGUFkjs22CulsqaUHMYktA5TpZp38MzdLng7smavV253HxGw6XdPMorulAyVOaYecG_Lx7m7w5AHL9Xa6eWFQoUbloY4ETeHjsYYpUmgTY2Pu7qT-t8PZ3ESjp2jA.jpg"
         }
       ]
     },
@@ -532,7 +502,7 @@
       "date": "2026-04-30T21:34:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 45200,
+      "views": 46700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -544,7 +514,7 @@
       "date": "2026-04-30T21:40:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 45500,
+      "views": 47000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -552,7 +522,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/voQaXs2AdCL-SO5pfebIVu7PRHb8V5SwexhGezk69YSkyGdA7C_tIdgZB6FPmT0702qP60qOPQMJOuxVcDDx3QnNHPxOopfw2t0wYGjqWZm6i2QVsHIrP2W-zOr7Mpa65_0X02P-RS80ybTignoxaEQDZfqxtrLFyiudTWBa8rUkyhDGL33HozBefXBo7jXucOEEyrzZjfjE940RmlxicIZi-UncgqpK-ZQeGildh-Glf9c41fvZbMYvcytBFA2TZO-L7N1gQ-l2vYPLbrjMZqQBjFBiPmBtgrqEma414B-pX1WPMrrGz4CM8S3FamFcJY8wC0dAJPWO6eu77gKpnQ.jpg"
+          "url": "https://cdn1.telesco.pe/file/WNSq2nCnnG8YQJNbvD1QFew6Egd7PlWlrBJeBp7GPuAOtVnrRFWLSy8k3AzyUVwIf3p2Qg7MUdsX_FVg5tEMECl2nMZdkM4cK5AL_TfZyk9bUuKLajUToC3bGk7TkIucVwejt1WYp7Gs_UYwtS6FDpjno5ng4gTh7jmskP_RQXr8jScA24ZtF2d3URLGR9G0Mr5oXaZrRlsoymQrHY_YyDz8XF_YzfdvupquflU8h_msV1zt2FMUg8itnHwNvAWRT1clnp--OnhMHWX2bu6nEkY-8sciW4snUlBNwwLKleaMYqCj5CV5aiLpnELrre226Nrz32eb1MqQSI1eiT3KKw.jpg"
         }
       ]
     },
@@ -562,7 +532,7 @@
       "date": "2026-04-30T21:40:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 46300,
+      "views": 47900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -574,7 +544,7 @@
       "date": "2026-04-30T21:51:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 48200,
+      "views": 49900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -582,7 +552,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/oLeDpzOsqRgbFpQhHdL4mAPhKe9_0dFkK4sVRa76gyehM3EEGwkGdMbLH6zUeiM9oqg0AO-ntrLlCtjUIhs1rF2A7DM3UfeX39D715PxDj67phnn0HZH-ZdmicaP9RsM0hh0cy70UFgtHzks2GyiJCiauAVyKw7arzdfoGTf-itFpyvEygL2B8fC7KDvCjCIAAki-5CnP3hqHW1iF9z6gcB6udN4SvYzZ6Po6U4_rafEBZicbfyH7vy0iJRE4xFi_Hc7i_KVzP01kpvZxylEyiQwtneVPYl_xAEpRbvUrT2Tn0it3IDVx20VzmBLC7nDvQqcY1M611tywfm5Ddcg8A.jpg"
+          "url": "https://cdn1.telesco.pe/file/E9vs8AbQxMHQJbIQr5N1pqO6DItVhE2ZbJYO8CqgpLLtialPCUYje6Fqpf6zPM9d9eBIddGniRr4o0FFwp254oR6NqzmBzlKAN7MRe5eHeYeAsMxsAt6QUhIqQuyWxJlnEbgy3Te22tgAgy2cSLa-MF0WTBiwa7WuS6L_6MxPj9Blj1AdoeQNttxP1P-XtXziVnXq8m8RXBypxcU7_oTSwtRqlJUZB6jQQeGDvR-kMNzzuSdzR_afXOxMS5PZHQiwkGe3_lA4NVUt0ues4wS3pZEbwKmJ-eMpx1M11JnqBDmvcItTdLEmWaD9FndUl-mObFgQtDgVXcDSQ_BlxTjBg.jpg"
         }
       ]
     },
@@ -592,7 +562,7 @@
       "date": "2026-05-01T00:42:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 85500,
+      "views": 93800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -611,7 +581,7 @@
       "date": "2026-05-01T00:42:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 64900,
+      "views": 69900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -623,7 +593,7 @@
       "date": "2026-05-01T01:01:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 53100,
+      "views": 55200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -641,7 +611,7 @@
       "date": "2026-05-01T01:02:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 52800,
+      "views": 54800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -653,7 +623,7 @@
       "date": "2026-05-01T01:06:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 52400,
+      "views": 54400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -665,7 +635,7 @@
       "date": "2026-05-01T13:52:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 52400,
+      "views": 54700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -673,7 +643,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/b8uBj8xh5RGVI_VLzcoHDo3JM3S0vj1M1Z1ahzHLtCbmlZZfQES4MAxKek-jO-XrKRZBBvYqliLi6jeFkPzWXnyiidwoShWJB-0thqHLwSiOW0wDyAQBY53ugkIGaXSnYaIczdwtYu2WHwQGKEcxiBZFErsyCGKKTrj9gO9xJtcTdGL2z7KqkLFcFw-H7MDnqyIgPgFwsSLbCT5vTipt757Ltfl_b7hKwI9Vlr6kXInG7g6KQDIc4lyATXXUk31tQgUjx73HsROeUTgfVkBZZutAE5XDYxTJK3sIaMLvMAQsSP6HWJLPRGCORhOSAdomQTFwwon-LizMr9KFJQrlKQ.jpg"
+          "url": "https://cdn1.telesco.pe/file/p-1Y5LFR7GvWvBmHsLC_lgMWVJTXGT7ZiegoFSvK1N5DRZFDZAV4ROVtMJ2qozJ8gvl0MSHaIPd4MFN4ebg7ERWxA6PNQ2nPKJ7J_tRoMwkoSdvaL41j_bmkS0U4QgnJGCHKwehE4INApv6ei4RdLVDq17nSB1Cch65298ptSlpLYTn-eDmeeeiN3bDJWpnjxz5gzIasHm4M6h6PlvvQzb5nAF72emhqgeSKDxgAUKAL_70SSY_AfIQMYz7OuLwp_eK9V8WofLEvh4I5boSd9GIpXv6YfXDVNEczCIBz7YYML-w3ULRe5dcRCeUMP6QoBzCOGHvwbPEJjlWb6FKr4Q.jpg"
         }
       ]
     },
@@ -683,7 +653,7 @@
       "date": "2026-05-01T18:09:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 49400,
+      "views": 51600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -695,7 +665,7 @@
       "date": "2026-05-01T18:53:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 49000,
+      "views": 51200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -707,7 +677,7 @@
       "date": "2026-05-01T22:25:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 48400,
+      "views": 51000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -719,7 +689,7 @@
       "date": "2026-05-01T22:28:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 46800,
+      "views": 49100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -731,7 +701,7 @@
       "date": "2026-05-01T22:32:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 46900,
+      "views": 49300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -739,11 +709,11 @@
     },
     {
       "id": 0,
-      "message": "مردم کشور گناهی ندارن 59 روزه اینترنت نداشتن اگر کمی چشمات رو باز کنی و توهین نکنی. اون کانال تلگرامی احمقی که نشر داده نوشته همراه اول شروع کرد به فروختن نت بین‌الملل مقصره. سرچ کن کد رو ببین چنـــد تا کانال گذاشتن!",
-      "date": "2026-04-27T16:12:19Z",
+      "message": "\u003ctg-emoji emoji-id=\"4956725085189702857\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F97A3.png\u0026#39;)\"\u003e\u003cb\u003e🗣️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e سوالات رایج شما راجع به متد MHR-CFW :\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003cbr/\u003e1.\u003c/b\u003eمتد بار اول پینگ داد بارهای بعد نداد\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eممکنه مشکل از پایتون یا تموم شدم ریکوئست‌هاتون باشه. باید لاگ cmd رو چک کنید \u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e2.\u003c/b\u003eراجع به نصب سرایفیکیت روی ایفون لطف کنید روش mhrcfw که بتونیم نت لپ تاپ رو روی گوشی هم داشته باشیم\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eراجع به آیفون پیام \u003ca href=\"https://t.me/MatinSenPaii/2922?comment=565510\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eاین دوستمون\u003c/a\u003e رو بخونید\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e3.\u003c/b\u003e من بدون هیچ مشکلی وصلم همه چی کار میکنه وقتی  میخوام اینستا لاگین کنم همش چک باکس نات ربات میاد هرجوری تکمیل کنم دوباره میاد\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eبخاطر آیپی کلودفلر هست، اگر از قبل لاگین نباشید تو اینستا نمیتونید کاریش کنید\u003cbr/\u003e\u003cb\u003e\u003cbr/\u003e5.\u003c/b\u003eسرعت خیلی ضعیف نسبت به mhr\u003cbr/\u003eدرحدی که صفحه گوگل هم به سختی میاره\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eدوباره دیپلوی کنید \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e7.\u003c/b\u003eبرای من پینگ نمیده و وصل نمیشه\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003eحتی اگر اکانتتون مسدود شده باشه هم باید پینگ بده، یا یجایی از کد رو اشتباه زدین یا کتابخونه‌هاتون درست نصب نشده\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4956368164817470478\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eدرنهایت، سوالاتی که بهش پاسخ داده نشده توی ویدیو توضیحش هست، لطفا یکبار ویدیو رو کامل ببینید و به جزئیات در هر مرحله توجه کنید\u003cbr/\u003e\u003cbr/\u003eلینک این پست رو سیو کنید؛ اگر به سوال جدیدی پاسخ داده بشه توی همین پست گذاشته میشه",
+      "date": "2026-05-02T14:08:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 46100,
+      "views": 47300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -751,11 +721,11 @@
     },
     {
       "id": 0,
-      "message": "اما Vercel خیلی عجیب بود. جزو سه تا از اولین سایت‌هایی بود که وایت شد، الانم خیلی در تلاشن مثل اسپوف یه جوری وایتش کنن که نتونیم روش VPN بسازیم. نمیدونم چه داستانی داره دولت سر این",
-      "date": "2026-04-27T18:32:54Z",
+      "message": "نسخه‌ی جدید \u003ca href=\"https://github.com/therealaleph/MasterHttpRelayVPN-RUST\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/therealaleph/MasterHttpRelayVPN-RUST\u003c/a\u003e رو حتما امتحان کنید.\u003cbr/\u003eخیلی خفن‌تر شده\u003cbr/\u003eو میتونید روی اندروید هم وصل بشید(اما با ip ایران خودتون)",
+      "date": "2026-05-03T08:13:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 44200,
+      "views": 41100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -767,7 +737,7 @@
       "date": "2026-04-27T19:18:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 47500,
+      "views": 48100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -779,7 +749,7 @@
       "date": "2026-04-27T19:21:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 45700,
+      "views": 46200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -791,7 +761,7 @@
       "date": "2026-04-27T20:24:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 45200,
+      "views": 45900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -803,7 +773,7 @@
       "date": "2026-04-27T20:28:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 46400,
+      "views": 47000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -815,7 +785,7 @@
       "date": "2026-04-28T16:12:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 38200,
+      "views": 38800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -823,11 +793,11 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Oa3zUjzTyrfp7Q8d6_-bJ6jfakEkno4T_ZQbkMOlB-JxSWycGJHU23nbeciZLEjuwk9KtYtXfKCDZe7_Qv8HtlEG8kD9sioTJppgE8fo_M2BTSic89sipsHpY6-HDxRbfP2aVstq7DDEVwoWn9ANa-lF09CdpaFgLu0ikUTiJ7U-rZ4Io1KN1QzY8G7frfXJ3GAAi_T9j3XJNrstf0R70ndRAEuB-8YPBYCDWtxnjFXPZGRwVAXqNo9GspPYlu3M5cUfIeZN46mpfyyzVHDHZJfrto2OOsDAxratL6j4AEP_flXbccnkE5ZBFgyGjgQs0GxexRoGzwPYDPjrEPGL6A.jpg"
+          "url": "https://cdn4.telesco.pe/file/hjZY7ei6fDlGA7OUHAT9umD1A5QiKTfkiXnhIU-dtZFfccx6H-xm1vRuh148b-ianjowvl49pBqon69sAV2S9-GwtfVqDbUF934RLUkukfQuXVQ8XqcV2pDndjJRsTP4vbiGI9sl7OYfTK1HRURET0pR3ThxG-q4RRrC-1uugbx8jINNoeSZRAMof59YrBfKdXwc1IUNE_TxSeDek2vNO5IeUJh64i8dDxEoGlAqTWAR-4fvyEWaiI3LlaIh_WZWaxWD3XYN9Iy8PozJdssPv4qPyeZHxQDqkERnvEtrp_9I1x3xyo8moKQtSElCxvCWrWjsJhIiv7FrOHZlL3REhQ.jpg"
         },
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/edjGYi9h3rK2NuIb64ixk1U0HEwzORsn-v1rqYykdeJ4NHpFb_VQHNfAEAFZqHns5z3fUtr1OLpsOuJb4vlIccwhICe6bCuwurN3eGhR8w1AO5lKZ_OvDmC0_FplijEjWYuvelO634PtrZ27N5UnqCd4yLOgNBDRvQ42htDMAoLcbgRZREK28XqhuYeXJ_aexEWBCwo5d0Dty2YeYasstVSj39Nfl_hdYZzkuOLBS0NQ8587uwAMaV1v81HxVd4WIekPL_u41pCB7dfU11YIgVOLdD_Y03nVJRYXi4vmnqWM8-ewAraK7s8FYCEymxKVo46fGhlV-eZ7gOvvcWVwlg"
+          "url": "https://cdn4.telesco.pe/file/uXnB4ZHqWaNqISz3Lbr_OM2nXrcp5m5RNxHv629bZgy3aFo0hxsZ3TCbpT4Zg5Jk4lhceU_QJ3tpWOhuyX3iW3YfrAnmFIuhDitWJTdxaCgPmVh-gA-jfNfAOHLJ2-Z1NvEFcKy5Eh44SfuAzfi091Fg5whsBlgyiTw6ERefwl5FU1ZMeENki9Mnp1q9sFzoBzHCZSHZuR7bXfpbgPJoFocOaP1hpH5eWuHWLhNaZufiGwIeJvC4CEAA1vaLITBgsZD_8BtQF5NrMey0nfFC_9uGJNdiZ7q2oBJCVImoFcz8oWrLXfzBgSZ-QA6SWHOA-NCGaiw-eHoKz8AbodMeVA"
         }
       ]
     },
@@ -837,7 +807,7 @@
       "date": "2026-04-28T16:12:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 43100,
+      "views": 43700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -849,7 +819,7 @@
       "date": "2026-04-28T16:44:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 46400,
+      "views": 49200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -861,7 +831,7 @@
       "date": "2026-04-28T19:19:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 46000,
+      "views": 46800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -873,7 +843,7 @@
       "date": "2026-04-28T19:55:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 44100,
+      "views": 44800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -885,7 +855,7 @@
       "date": "2026-04-28T20:30:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 47600,
+      "views": 48400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -893,7 +863,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/uzudqCYn5WR2tk0cnx6t3LfTGiw9--2RpB5SB_ld_DNPNNRlt4cGQi7hzSelJWVrd1GQ1aEyzcKvgj3gZu7vA4vL2usQtGrWvjIdhPBWIiFGt6D0h6mhHq3pfnq2SlBSHdKgoEk5lVrEOrULBFj_aIQ9HDUcF4bDv0ED11cjXxYN4uWqEewSeW7V4qgnZxzA5Gklof-Mm4ATl3H8bh85qxsfyI5Y3usKkoQI7Rc3dMO4O44qqjOuPV-UkNKvxnR5jod1xVJTHxWphdztK9y29JjLofy5w0bmb57PV0Peb4CnWS7iIkO0iy7kOSWE2jWWL94xPJnVzgnWp2t4abxZRA.jpg"
+          "url": "https://cdn1.telesco.pe/file/W6_hBgj1DB77C1KzcgCnoJV-_wj7XadFanK1vHsG5FelIGZCzGWWfDjEorttHkwHz_Q0bSi90R4Zbk7lnAZteylDvAMM6wTK_s5wX6qc7dYkRjKuSBXAGWGpPTuPcSx29YpGWJ3ybchLzFKaeLvmwwruFapyorSO-Igmu9lGQ9y7TxL3sSsvd6dEZivf__wpjLLfaKyCusSfbFAOFP8i42k3MNwmOuqDPu_wKVDn_AGzCKrXqUqtlb-Fe0jHECpPGTeCjOYOfOs2kNpaR3LpWePbG0ARV1w2l7tTBAl_e2lEFCo2Rpsb566Mch-NX83rdLp01gylsIonNvKY7NTbRA.jpg"
         }
       ]
     },
@@ -903,7 +873,7 @@
       "date": "2026-04-28T20:43:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 47200,
+      "views": 47900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -915,7 +885,7 @@
       "date": "2026-04-28T20:43:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 47400,
+      "views": 48100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -927,7 +897,7 @@
       "date": "2026-04-29T06:55:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 46700,
+      "views": 47700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -935,7 +905,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/MRP1mjJljaNyC5NSo67zdA5y6P9SioqmHLavAD_p3Ta0dZ0DJWIAwWs1tHNugnI1xRWnUfe-8CbWm2HoNgUmPXdF9Mk6bkQzwp7dYfsCgIkoARaxnKarNZX_u4do_rFKAxpUgObxjsOcqTxFvugp4x1oou-Jyx3FDh_o_lRQpcyz9p5KkjL6sohj53CkM3VCA9Eozq3fkEjB8R5BBcHWh73MgQeKwA48e_a28k4Pvz9Oq96P0H0AEDGfJKQZ--yjvNuk2PmAtIIeMj0-HAPYt5gxa46_pNBAYkrXSoPErSZXxY6fnY8U9bB0udenDFPIschH3tNWXhJ6_FViEW1ApQ.jpg"
+          "url": "https://cdn1.telesco.pe/file/P33F14c_V1Vm6j8_A17aawqeS7Ssgz3Zb5mNdm-LDcz2g31qCeUvIgJoqqtPsysFjPvf1oJ2tUVjzsaOuTydK5y3e3W9bNpNfc-RAsWbCxVbkY_9jBhdebi34djH1P3IzMXvVoGnAXZGzlPxrXI6AsUOS8KEn5m8-Nejk70_VBhBqjYXmG1GjWyzhPqr4SAO_3SqV1ElWsjlq1HV2wFp4xApkcvWHQCQ8TOAg_u61hcFCvBv7N-OSnY5yZlNEMlwl_dq1ahpbrj4hvhDM9a4tlIYVOOwz1Jb3HytxOVe3Iw4w8vXU-DTLzyytMhABKfPDxfRxeE_AilwaSr0IQErTA.jpg"
         }
       ]
     },
@@ -945,7 +915,7 @@
       "date": "2026-04-29T06:57:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 46400,
+      "views": 47400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -957,7 +927,7 @@
       "date": "2026-04-29T08:46:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 40800,
+      "views": 41800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -969,7 +939,7 @@
       "date": "2026-04-29T08:46:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 44100,
+      "views": 45400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -977,23 +947,29 @@
     },
     {
       "id": 0,
-      "message": "خیلی خیلی ساده می‌خوام توضیح بدم. اون کانفیگی که شما می‌بینید وصله:\u003cbr/\u003e\u003cbr/\u003e1- یا سرور رانتی پشتشه(یعنی از بالا آزادش کردن و من و شما دسترسی نداریم به همچین چیزی)\u003cbr/\u003e\u003cbr/\u003e2- یا واسطه‌ای هست که از مورد 1 سرور دست به دست شده داره میفروشه به شما(اوتباند)\u003cbr/\u003e\u003cbr/\u003e3- یا با یه سری متدی وصل هستن که به شدت ناپایداره(مثل range آیپی خاص فلان دیتاسنتر و... که بازم شانسیه یا ارزش یاد دادن نداره چون برای همه قرار نیست کار کنه)\u003cbr/\u003e\u003cbr/\u003e4- یا اینترنت استارلینک یا نت مرزی هست که اونم باید وصل باشه به سرور ایران اما دردسرش بیشتره و باید مسک کنید که شناسایی نشه آیپی استارلینک شما. که اونم طبیعتا برای همه قابل دسترسی نیست و سرورهای ایران رو هم به شدت مسدود میکردن یه تایمی\u003cbr/\u003e\u003cbr/\u003e5- یا نت سیمکارت سفید یا اینترنت پرو رو میگیرن میندازن پشت روتر و شروع میکنن مثل همون استارلینک به فروختنش\u003cbr/\u003e\u003cbr/\u003eاگر متد فعال و پایداری بیاد، همینجا اعلام می‌کنم و یا ویدئوش رو می‌سازم. فعلا با این بساط اینترنت پرو انگار قصد ندارن برگردونن به قبل از جنگ وضعیت اینترنت رو.",
-      "date": "2026-04-26T14:14:24Z",
+      "message": "این MHR-CFW هم چیز جالبی بودش",
+      "date": "2026-04-30T21:24:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 47300,
+      "views": 43800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "Matin SenPai"
+      "sender_name": "Matin SenPai",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/BIofYTdnxLHNI9dti2rX6yaESAHASIkRcRGq61AHWb75g_5_HgRRJyw066G_yqqrou3CgTzHUML7SduEW_uvYZSSlq5m2tIiIgN0g67sVj1IghYwzq4O3eq4VnB_LXdEn_ejUdi13Xmg6A3IjjviPl7lbRHPa_L2QweFsd_NyX9JofNMJA2dS5uOR5io2cUJYmgpqKjDC9ljFARMd-KUqtnej5C2-tkn3WXIBHEJ3quBk_f7iMpJfXhosyUHD4gHbKFWqqF6AQOb0zjs01FPhlbDAewaiVqzSs63dgEuVCzoiXLbV9Vo4WfKtCEY08Wv57M0ACxsxvsJdPc4gGtPBQ.jpg"
+        }
+      ]
     },
     {
       "id": 0,
-      "message": "اوتباند یعنی:\u003cbr/\u003eیه کانفیگ Vless بهت میدن، که وصله به سرور رانتی. ۲۰۰ گیگ هم حجم داره به طور مثال.\u003cbr/\u003eشما اینو توی پنل سنایی اوتباند میذاری، نت سرور ایرانت وصل میشه به نت بین‌الملل(به اندازه‌ی ۲۰۰ گیگ).\u003cbr/\u003eحالا میتونی اینو تقسیم کنی بفروشی. متد وصل شدن نیست این که بخوام یاد بدم",
-      "date": "2026-04-26T14:26:06Z",
+      "message": "نه من همین الان باهاش وصلم و یوتوب و اینستا و تلگرام وب و همه چیز اوکیه",
+      "date": "2026-04-30T21:25:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 47900,
+      "views": 44900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -1005,7 +981,7 @@
       "date": "2026-04-26T15:48:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 47400,
+      "views": 47800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -1017,7 +993,7 @@
       "date": "2026-04-26T18:05:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 47500,
+      "views": 47900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -1029,7 +1005,7 @@
       "date": "2026-04-26T18:10:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 49500,
+      "views": 50000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -1041,7 +1017,7 @@
       "date": "2026-04-26T18:13:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 52600,
+      "views": 53100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -1053,7 +1029,7 @@
       "date": "2026-04-26T18:15:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 49200,
+      "views": 49700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -1065,7 +1041,7 @@
       "date": "2026-04-26T18:24:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 47800,
+      "views": 48300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -1077,7 +1053,7 @@
       "date": "2026-04-26T18:37:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 47400,
+      "views": 47800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -1089,7 +1065,7 @@
       "date": "2026-04-27T04:27:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 49000,
+      "views": 49500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -1097,7 +1073,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/jaywz1XUNZM3WocR5gNnsBlS7h_Y3Z1hLSNzYYyLSXVT9qT_9tUB4VKviwfOEuaDcYRRTwd-2mD4-c0kaUmpIxLOGso3D4ZmBV6Eujb3a77lBQQnZ8J-BTUjgWO_Ts2_4KHboSVUgeszoUfSd3An7egvLKcUzEav5hd8IbzGB8eeXCnyCituz9YlF8D31GTsfghka1v6j--Afu3r6UGixD9wD43X6pb-tHu8cvHTJmMjgPygPzYy1yuAlF0Lt48auqbOJ0XdcAV6m_Ti74c1Jt6IvvRu4ms8ahGZ27L5CsJm5rKN66KAEtKlrFmNZiOj0aVM2GsAyrGf1eyOdXuSew.jpg"
+          "url": "https://cdn1.telesco.pe/file/TwxDZf_4e6nwf1zHummKtjRmxKAlfiS7DwEmuQagPf2SwFT4ZE1-FcccluJ0W29qWfiDMn8Ad_OlFogdv_uh_irfhc3gVWmOxXpbakn8WNKoWnFS-wHRThMmwItAZADORdyCIBbX_Sd56q7Eog8bdCvwMyGp7qSF_mucpRUF0BwKHwBZ3KykpsQHPcPRh0xABjb06J-Ruje1D9ySR1l9tJM773IL9ngGGdkCAwIIFeL6lSZC4_-iUPqpefJpIh_jyjZ7suKDT8Y7iILDKjxPqOzfeVOWIG3puzT7XVU1jUc-vfkTAsW5M8U7qRk3rEEq-wUL9ysS83qaS_3s2x92_Q.jpg"
         }
       ]
     },
@@ -1107,7 +1083,7 @@
       "date": "2026-04-27T04:51:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 47000,
+      "views": 47400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -1119,7 +1095,7 @@
       "date": "2026-04-27T05:28:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 47600,
+      "views": 48300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -1131,7 +1107,7 @@
       "date": "2026-04-27T05:43:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 47700,
+      "views": 48200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -1143,7 +1119,7 @@
       "date": "2026-04-27T06:11:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 49000,
+      "views": 49500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -1155,7 +1131,7 @@
       "date": "2026-04-27T10:54:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 46700,
+      "views": 47200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -1167,7 +1143,7 @@
       "date": "2026-04-27T11:31:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 46100,
+      "views": 46600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -1179,7 +1155,7 @@
       "date": "2026-04-27T11:49:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 46300,
+      "views": 46800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -1191,7 +1167,7 @@
       "date": "2026-04-27T11:57:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 47100,
+      "views": 47700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -1203,7 +1179,7 @@
       "date": "2026-04-27T15:33:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 45700,
+      "views": 46300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -1215,12 +1191,36 @@
       "date": "2026-04-27T16:07:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 46500,
+      "views": 47100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "مردم کشور گناهی ندارن 59 روزه اینترنت نداشتن اگر کمی چشمات رو باز کنی و توهین نکنی. اون کانال تلگرامی احمقی که نشر داده نوشته همراه اول شروع کرد به فروختن نت بین‌الملل مقصره. سرچ کن کد رو ببین چنـــد تا کانال گذاشتن!",
+      "date": "2026-04-27T16:12:19Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 46700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Matin SenPai"
+    },
+    {
+      "id": 0,
+      "message": "اما Vercel خیلی عجیب بود. جزو سه تا از اولین سایت‌هایی بود که وایت شد، الانم خیلی در تلاشن مثل اسپوف یه جوری وایتش کنن که نتونیم روش VPN بسازیم. نمیدونم چه داستانی داره دولت سر این",
+      "date": "2026-04-27T18:32:54Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 44800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Matin SenPai"
     }
   ],
-  "last_updated": 1777942832
+  "last_updated": 1778014665
 }

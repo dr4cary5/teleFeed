@@ -1,0 +1,23 @@
+{
+  "info": {
+    "id": 0,
+    "title": "config raygan",
+    "username": "configraygan",
+    "photo_url": ""
+  },
+  "posts": [
+    {
+      "id": 0,
+      "message": "Channel created",
+      "date": "2026-04-18T18:53:36Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 0,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "config raygan"
+    }
+  ],
+  "last_updated": 1778070064
+}
